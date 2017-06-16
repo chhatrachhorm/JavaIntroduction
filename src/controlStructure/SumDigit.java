@@ -16,7 +16,7 @@ public class SumDigit {
 			System.out.printf("%d + ", test%10);
 			test /= 10;
 		}
-		System.out.printf("\b\b= %d", sum);
+		System.out.printf("\b\b = %d", sum);
 //	Computer is very important in education
 	}
 
