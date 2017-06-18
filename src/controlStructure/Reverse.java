@@ -13,5 +13,11 @@ public class Reverse {
 			test /= 10;
 		}
 		System.out.printf("The reverse of %d is %d", num, rev);
+		test = num; rev = 0;
+		do{
+			rev = rev*10+(test%10);
+			test /= 10;
+		}while(test!=0);
+		System.out.printf("The reverse of %d is %d", num, rev);
 	}
 }
