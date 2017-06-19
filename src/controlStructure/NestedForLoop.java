@@ -60,14 +60,6 @@ public class NestedForLoop {
 			}
 			System.out.println();
 		}
-		
-		/*
-		 *     1
-		 *   2 1
-		 * 3 2 1
-		 * .....
-		 * */
-
 	}
 
 }
