@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class NestedForLoop {
 
 	public static void main(String[] args) {
-		int i, j, num=0, total=0, k=0;
+		int i, j, num=0, total=0;
 		try(Scanner s = new Scanner(System.in)){
 			System.out.println("Enter a number: ");
 			num = s.nextInt();
