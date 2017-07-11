@@ -19,6 +19,7 @@ public class ThrowsException {
 		}catch(FileNotFoundException e){
 			System.out.println("Exception occured: "+e);
 		}
+//		openFile("D:\\html.html");
 	}
 
 

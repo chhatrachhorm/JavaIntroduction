@@ -2,6 +2,7 @@ package multiThreads;
 
 public class ThreadCreation extends Thread{
  
+	
 	@Override
 	public void run(){
 		for(int i=0; i<100; i++){
@@ -12,6 +13,7 @@ public class ThreadCreation extends Thread{
 			}
 			System.out.println("Hello :"+(i+1));
 		}
+
 	}
 	/*
 	 * Ways to o create threads:

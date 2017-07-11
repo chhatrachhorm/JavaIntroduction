@@ -1,6 +1,6 @@
 package controlStructure;
 public class Shape {
-	public void shape(){
+	public static void shape(){
 		System.out.println("Please Pass some variables");
 	}
 	public void shape(float a){
@@ -27,7 +27,7 @@ public class Shape {
 	}
 	public static void main(String[] args) {
 		Shape s = new Shape();
-		s.shape();
+		shape();
 		s.shape(10, 'r');
 		s.shape(5, 'd');
 		s.shape(5);
