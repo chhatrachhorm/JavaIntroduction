@@ -12,6 +12,11 @@ public class Students implements Comparable<Students>{
 	@Override
 	public int compareTo(Students obj){
 		return id-obj.id;
+		/*
+		 * for String: the return statement is : 
+		 * return name.compareTo(obj.name);
+		 * because name is in String Class, .compareTo(obj.name) is invoked from string class to compare 2 string
+		 * */
 	}
 	/*
 	 * When: Collections.sort(list); is called
