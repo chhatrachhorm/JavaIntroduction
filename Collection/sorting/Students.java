@@ -8,8 +8,7 @@ package sorting;
  * */
 
 public class Students implements Comparable<Students>{
-
-	@Override
+	
 	public int compareTo(Students obj){
 		return id-obj.id;
 		/*
@@ -33,6 +32,7 @@ public class Students implements Comparable<Students>{
 		this.id = id;
 		this.name = name;
 	}
+	@Override
 	public String toString(){
 		return id+" : "+name;
 	}
