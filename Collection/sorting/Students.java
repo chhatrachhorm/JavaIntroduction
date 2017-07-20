@@ -1,22 +1,16 @@
 package sorting;
 /*
  * NB. if the class is used as an user-defined data type, 
- * then two important things are necessary to be defined:
- * implementation of Comparable interface and the compareTo() 
- * (or) implementation of comparator interface and the compare()
- * defining toString();
+ * then four important things are necessary to be defined:
+ * 		1) implement the Comparable interface and the compareTo()
+ * 			(or) implement the comparator interface and the compare()
+ * 		2) define toString()
+ * 		3) define Constructor
+ * 		4) define hashCode()
+ *	 	5) define equal()
  * */
 
 public class Students implements Comparable<Students>{
-	
-	public int compareTo(Students obj){
-		return id-obj.id;
-		/*
-		 * for String: the return statement is : 
-		 * return name.compareTo(obj.name);
-		 * because name is in String Class, .compareTo(obj.name) is invoked from string class to compare 2 string
-		 * */
-	}
 	/*
 	 * When: Collections.sort(list); is called
 	 * And: the objects of list will be separated into s1 s2 s3
@@ -28,6 +22,16 @@ public class Students implements Comparable<Students>{
 	 * */
 	Integer id;
 	String name;
+	public int compareTo(Students obj){
+		return id-obj.id;
+		/*
+		 * compareTo is used to help the Collection.sort();
+		 * to tell JVM what variable that sort should be based on
+		 * for String: the return statement is :
+		 * return name.compareTo(obj.name);
+		 * because name is in String Class, .compareTo(obj.name) is invoked from string class to compare 2 string
+		 * */
+	}
 	public Students(int id,String name){
 		this.id = id;
 		this.name = name;
@@ -43,5 +47,40 @@ public class Students implements Comparable<Students>{
 	 * Students object = new Students(123, "John");
 	 * System.out.println(object);
 	 * */
+	@Override
+	public int hashCode() {
+		final int prime = 31;
+		int result = 1;
+		result = prime * result + ((id == null) ? 0 : id.hashCode());
+		result = prime * result + ((name == null) ? 0 : name.hashCode());
+		return result;
+		/*
+		* hashCode() is used to tell JVM to apply hashcode correctly to user defined dataType based on the variables defined
+		* */
+	}
+	@Override
+	public boolean equals(Object obj) {
+		if (this == obj)
+			return true;
+		if (obj == null)
+			return false;
+		if (getClass() != obj.getClass())
+			return false;
+		Students other = (Students) obj;
+		if (id == null) {
+			if (other.id != null)
+				return false;
+		} else if (!id.equals(other.id))
+			return false;
+		if (name == null) {
+			if (other.name != null)
+				return false;
+		} else if (!name.equals(other.name))
+			return false;
+		return true;
+		/*
+		* equals() is used to help in comparing two objects based on hashCode
+		* */
+	}
 
 }

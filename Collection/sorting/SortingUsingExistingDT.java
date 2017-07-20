@@ -6,7 +6,7 @@ import java.util.List;
 
 public class SortingUsingExistingDT {
 	public static void main(String[] a){
-		List<Integer> list = new ArrayList<Integer>();
+		List<Integer> list = new ArrayList();
 		list.add(100);
 		list.add(10);
 		list.add(200);
