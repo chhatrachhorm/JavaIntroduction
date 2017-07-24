@@ -1,6 +1,6 @@
 package array;
 import java.util.ArrayList;
-public class listofArray {
+public class listOfArray {
 
 		//List list = new ArrayList();
 		ArrayList list = new ArrayList();
@@ -14,7 +14,7 @@ public class listofArray {
 		}
 		public static void main(String[] args) {
 			// TODO Auto-generated method stub
-			listofArray m = new listofArray();
+			listOfArray m = new listOfArray();
 			m.addData();
 		}
 

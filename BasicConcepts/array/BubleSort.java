@@ -2,7 +2,7 @@ package array;
 
 import java.util.Scanner;
 
-public class BubleShort {
+public class BubleSort {
 
 	public static void bubleSort(int a[], int n){
 		for(int i=0; i<n; i++){

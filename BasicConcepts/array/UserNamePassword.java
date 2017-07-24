@@ -2,7 +2,7 @@ package array;
 
 import java.util.Scanner;
 
-public class UserNamPassword {
+public class UserNamePassword {
 
 	public static void main(String[] args) {
 		String userName, pass;
