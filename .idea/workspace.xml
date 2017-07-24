@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="03b1c72a-a071-4c26-896f-587f9e75922d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicConcepts/fileOperation/DeletingFilesOperation.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicConcepts/fileOperation/ListingFiles.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
@@ -406,12 +404,20 @@
       <option name="presentableId" value="Default" />
       <updated>1500857958780</updated>
       <workItem from="1500857960182" duration="2370000" />
-      <workItem from="1500862495228" duration="3215000" />
+      <workItem from="1500862495228" duration="3228000" />
     </task>
+    <task id="LOCAL-00001" summary="FileOperation">
+      <created>1500866140469</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1500866140469</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5585000" />
+    <option name="totallyTimeSpent" value="5598000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="34" y="22" width="1332" height="705" extended-state="0" />
