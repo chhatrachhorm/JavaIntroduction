@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/KITAppium.iml" filepath="$PROJECT_DIR$/KITAppium.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaIntroduction.iml" filepath="$PROJECT_DIR$/JavaIntroduction.iml" />
     </modules>
   </component>
 </project>
