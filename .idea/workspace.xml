@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="03b1c72a-a071-4c26-896f-587f9e75922d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicConcepts/fileOperation/FIleStorage/ListOfFiles/Hello.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicConcepts/fileOperation/FIleStorage/ListOfFiles/JavaScript.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicConcepts/fileOperation/FIleStorage/ListOfFiles/package-info.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicConcepts/fileOperation/FIleStorage/ListOfFiles/package.yaml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicConcepts/fileOperation/FileInputStreamDemoRead.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicConcepts/fileOperation/FileInputStreamDemoReadByte.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BasicConcepts/fileOperation/FIleStorage/fileDemo.txt" afterPath="$PROJECT_DIR$/BasicConcepts/fileOperation/FIleStorage/fileDemo.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/fileOperation/FIleStorage/fileDemo.txt" afterPath="$PROJECT_DIR$/bin/fileOperation/FIleStorage/fileDemo.txt" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -381,7 +373,7 @@
       <workItem from="1500857960182" duration="2370000" />
       <workItem from="1500862495228" duration="3356000" />
       <workItem from="1500876811686" duration="32000" />
-      <workItem from="1500943530456" duration="4123000" />
+      <workItem from="1500943530456" duration="4174000" />
     </task>
     <task id="LOCAL-00001" summary="FileOperation">
       <created>1500866140469</created>
@@ -397,11 +389,18 @@
       <option name="project" value="LOCAL" />
       <updated>1500866149315</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="FileOperation">
+      <created>1500947749793</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1500947749793</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9881000" />
+    <option name="totallyTimeSpent" value="9932000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="34" y="22" width="1332" height="705" extended-state="0" />
