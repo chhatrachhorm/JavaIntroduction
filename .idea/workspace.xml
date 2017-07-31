@@ -2,31 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="03b1c72a-a071-4c26-896f-587f9e75922d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicConcepts/Serialization/Fruit.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicConcepts/Serialization/PreserveWriteObj.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicConcepts/Serialization/ReadPreserveObj.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicConcepts/fileOperation/Output/BufferOutputStreamDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicConcepts/fileOperation/Output/DataOutputStreamDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicConcepts/fileOperation/Output/FIleOutputStreamDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicConcepts/fileOperation/ReadAndWrite.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicConcepts/fileOperation/ReaderWriterClassDemo/BufferFileWriter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicConcepts/fileOperation/ReaderWriterClassDemo/BufferReaderDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicConcepts/fileOperation/ReaderWriterClassDemo/FileReaderDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicConcepts/fileOperation/ReaderWriterClassDemo/WriterDemo.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/fileOperation/EndlessDirs.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/fileOperation/FileDemo.class" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BasicConcepts/fileOperation/BufferedInputStreamDemo.java" afterPath="$PROJECT_DIR$/BasicConcepts/fileOperation/Input/BufferedInputStreamDemo.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BasicConcepts/fileOperation/DataInputStreamDemo.java" afterPath="$PROJECT_DIR$/BasicConcepts/fileOperation/Input/DataInputStreamDemo.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BasicConcepts/fileOperation/DeletingFilesOperation.java" afterPath="$PROJECT_DIR$/BasicConcepts/fileOperation/Input/DeletingFilesOperation.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BasicConcepts/fileOperation/EndlessDirs.java" afterPath="$PROJECT_DIR$/BasicConcepts/fileOperation/Input/EndlessDirs.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BasicConcepts/fileOperation/FileDemo.java" afterPath="$PROJECT_DIR$/BasicConcepts/fileOperation/Input/FileDemo.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BasicConcepts/fileOperation/FileInputStreamDemoRead.java" afterPath="$PROJECT_DIR$/BasicConcepts/fileOperation/Input/FileInputStreamDemoRead.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BasicConcepts/fileOperation/FileInputStreamDemoReadByte.java" afterPath="$PROJECT_DIR$/BasicConcepts/fileOperation/Input/FileInputStreamDemoReadByte.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BasicConcepts/fileOperation/ListingFiles.java" afterPath="$PROJECT_DIR$/BasicConcepts/fileOperation/Input/ListingFiles.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BasicConcepts/fileOperation/FIleStorage/ListOfFiles/Hello.html" afterPath="$PROJECT_DIR$/BasicConcepts/fileOperation/FIleStorage/ListOfFiles/Hello.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BasicConcepts/fileOperation/FIleStorage/fileDemo.txt" afterPath="$PROJECT_DIR$/BasicConcepts/fileOperation/FIleStorage/fileDemo.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/fileOperation/FIleStorage/fileDemo.txt" afterPath="$PROJECT_DIR$/bin/fileOperation/FIleStorage/fileDemo.txt" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
@@ -75,11 +51,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Fruit.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Fruit.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/BasicConcepts/Serialization/Fruit.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="240">
-              <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+              <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
               <folding>
                 <element signature="e#281#282#0" expanded="true" />
                 <element signature="e#321#322#0" expanded="true" />
@@ -100,7 +76,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ReadPreserveObj.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ReadPreserveObj.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/BasicConcepts/Serialization/ReadPreserveObj.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
@@ -500,7 +476,7 @@
       <workItem from="1500876811686" duration="32000" />
       <workItem from="1500943530456" duration="4934000" />
       <workItem from="1501394842481" duration="3084000" />
-      <workItem from="1501462158287" duration="6373000" />
+      <workItem from="1501462158287" duration="7008000" />
     </task>
     <task id="LOCAL-00001" summary="FileOperation">
       <created>1500866140469</created>
@@ -537,11 +513,18 @@
       <option name="project" value="LOCAL" />
       <updated>1501396409462</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Serialization">
+      <created>1501469059816</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1501469059817</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20149000" />
+    <option name="totallyTimeSpent" value="20784000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="34" y="22" width="1332" height="705" extended-state="0" />
@@ -556,7 +539,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.328594" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.328594" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -613,7 +596,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="FileOperation" />
-    <option name="LAST_COMMIT_MESSAGE" value="FileOperation" />
+    <MESSAGE value="Serialization" />
+    <option name="LAST_COMMIT_MESSAGE" value="Serialization" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -874,17 +858,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BasicConcepts/Serialization/Fruit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding>
-            <element signature="e#281#282#0" expanded="true" />
-            <element signature="e#321#322#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/BasicConcepts/fileOperation/ReaderWriterClassDemo/FileReaderDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -949,6 +922,17 @@
           <caret line="12" column="44" lean-forward="true" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="44" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BasicConcepts/Serialization/Fruit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding>
+            <element signature="e#281#282#0" expanded="true" />
+            <element signature="e#321#322#0" expanded="true" />
           </folding>
         </state>
       </provider>
