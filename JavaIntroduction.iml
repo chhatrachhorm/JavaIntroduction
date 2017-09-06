@@ -9,6 +9,7 @@
       <sourceFolder url="file://$MODULE_DIR$/ExceptionAndError" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Threads" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Collection" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DesignPattern" isTestSource="false" />
     </content>
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="inheritedJdk" />

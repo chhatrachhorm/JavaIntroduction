@@ -1,6 +1,5 @@
 package fileOperation.Input;
 
-import apple.laf.JRSUIConstants;
 
 import java.io.File;
 import java.util.Scanner;
