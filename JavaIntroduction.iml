@@ -10,6 +10,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Threads" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Collection" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/DesignPattern" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Examination" isTestSource="false" />
     </content>
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="inheritedJdk" />

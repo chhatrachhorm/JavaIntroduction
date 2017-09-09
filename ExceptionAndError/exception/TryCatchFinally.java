@@ -15,7 +15,8 @@ public class TryCatchFinally {
 			FileInputStream fis = new FileInputStream("D:\\html.html");
 			System.out.println(" Success");
 			fis.read(b);
-			System.out.println(b);
+			String s = new String(b);
+			System.out.println(s);
 		}catch(FileNotFoundException e){
 			String cName = e.getClass().toString();
 			System.out.println(cName);
