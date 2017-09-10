@@ -8,8 +8,8 @@ package InternalExamination.thread;
 public class MonitorLock {
     static int a = 0;
     static int b = 0;
-    static Object obj1 = new Object();
-    static Object obj2 = new Object();
+    static final Object obj1 = new Object();
+    static final Object obj2 = new Object();
     static void setVal1()throws Exception{
         synchronized(obj1){
             a++;

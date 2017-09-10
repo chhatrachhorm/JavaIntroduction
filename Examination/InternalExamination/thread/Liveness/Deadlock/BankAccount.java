@@ -56,7 +56,5 @@ public class BankAccount {
                 }
             }
         });
-        send1.start();
-        send2.start();
     }
 }
