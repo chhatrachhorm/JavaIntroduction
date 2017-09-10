@@ -1,4 +1,4 @@
-package InternalExamination.thread.Liveness;
+package InternalExamination.thread.Liveness.Deadlock;
 
 public class DeadlockDemo {
     static int a = 1;
