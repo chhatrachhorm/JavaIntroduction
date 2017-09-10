@@ -4,31 +4,35 @@ package InternalExamination.thread.Liveness.Deadlock;
 * It happens when a process wait for another one who is using some needed resource
 * (ie: file or database table row) to finish with it,
 * while the other process also wait for the first process to release some other resource.
+ * see greeting for better explanation
 * */
 
 public class DeadlockDemo {
-    static int a = 1;
-    static int b = 2;
-    private synchronized static void operate1(){
-        System.out.println(a);
-        operate2();
+    int a = 1;
+    int b = 2;
+    private int getValA(){return a;}
+    private int getValB(){return b;}
+    private synchronized void operate1(DeadlockDemo o){
+        System.out.println(this.getValA());
+        o.operate2();
     }
-    private synchronized static void operate2(){
-        System.out.println(b);
-        operate1();
+    private synchronized void operate2(){
+        System.out.println(this.getValB());
     }
 
     public static void main(String[] args) {
+        DeadlockDemo o1 = new DeadlockDemo();
+        DeadlockDemo o2 = new DeadlockDemo();
         Thread t1 = new Thread(new Runnable() {
             @Override
             public void run() {
-                operate1();
+                o1.operate1(o2);
             }
         });
         Thread t2 = new Thread(new Runnable() {
             @Override
             public void run() {
-                operate2();
+                o2.operate1(o1);
             }
         });
         t1.start();

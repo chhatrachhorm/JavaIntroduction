@@ -1,10 +1,14 @@
 package InternalExamination.AbstractionInterface.Abstraction;
 
 public abstract class Cars {
+    // variables
     public static String CARS_MODEL;
     public static String LICENSE_ID;
+
+    // abstract function
     public abstract void drive();
     public abstract void repairCar();
+
     public static void selling(){
         System.out.println("Your car("+LICENSE_ID+") is sold");
     }
