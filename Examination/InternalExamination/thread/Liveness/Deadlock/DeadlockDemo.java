@@ -1,4 +1,10 @@
 package InternalExamination.thread.Liveness.Deadlock;
+/**
+* I think the deadlock is the easiest one to understand.
+* It happens when a process wait for another one who is using some needed resource
+* (ie: file or database table row) to finish with it,
+* while the other process also wait for the first process to release some other resource.
+* */
 
 public class DeadlockDemo {
     static int a = 1;
