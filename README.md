@@ -7,13 +7,21 @@ List<Integer> numbers = Arrays.asList(1, 2, 3, 4);
 #### Looping with for each in the outdated way
 ```Java
 // tradetional
+for(int i = 0; i < numbers.size(); i++){
+  System.out.println(numbers.get(i));
+}
 // normal foreach
+for(int i : numbers){
+  System.out.println(i);
+}
 // new foreach
 numbers.forEach(new Consumer<Integer>(){
   public void accept(Integer e){
     System.out.println(e);
   }
 }
+// In java 8
+numbers.forEach(System.out::println)
 ```
 
 ### Lambda expression
@@ -72,6 +80,3 @@ numbers.stream()
 ```
 
 ###### Credits to [DEVOX](http://www.agiledeveloper.com/downloads.html)
-
-# Major Features in Java 9
-
