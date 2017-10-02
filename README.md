@@ -1,5 +1,4 @@
 # Functional Programming in Java 8
-
 ## Lamda, Lists and Looping
 ```Java
 List<Integer> numbers = Arrays.asList(1, 2, 3, 4);
@@ -14,7 +13,7 @@ for(int i = 0; i < numbers.size(); i++){
 for(int i : numbers){
   System.out.println(i);
 }
-// new foreach
+// Internal Iterator
 numbers.forEach(new Consumer<Integer>(){
   public void accept(Integer e){
     System.out.println(e);
@@ -24,8 +23,26 @@ numbers.forEach(new Consumer<Integer>(){
 numbers.forEach(System.out::println)
 ```
 
-### Lambda expression
+### Lambda expression and Stream
+#### Functional Programming
+A normal function has to have :
+  - Name
+  - Return Type
+  - Parameters
+  - Body
 
+Lambda are anonymous function whose type is inferred which has two things
+  - Parameters
+  - Body
+
+In Normal Function, we can pass objects to functions, create objects within functions and return ojects from a function.
+In higher order functions, we can pass functions to functions, create functions within functions and return functions from a functions.
+
+Types of Programming
+- Imperative: what and how.    
+- Declarative: what not how
+- Functional: Declarative + higher-order functions
+##### Lambda
 ```Java
 Thread t1 = new Thread(()->System.out.println("Hello from Lambda"));
 t1. start();
@@ -39,13 +56,13 @@ numbers.forEach(e->System.out.println(e));
 // Method references
 numbers.forEach(System.out::println)
 ```
-### Stream
+#### Stream
 ##### Stream in java 8
 ```Java
 // No final if it's immutable
 int factor = 2;
 Stream<Integer> strm = numbers.stream()
-          .map(e -> e * factor);
+          .map(e -> e * factor); // e is the parameter to the labda, much like args is the parameter to main
 strm.forEach(System.out::println);
 // Error will throws
 int factor = 2;
@@ -66,11 +83,11 @@ strm.forEach(System.out::println);
 
 
 // Stream is the internal iterator
-System.lout.println(
+System.out.println(
   numbers.stream()
           .filter(e->e%2 == 0)
           .mapToInt(e -> e *2)
-          .sum());
+          .sum()); // the filter and mapToInt won't be invoked unless .sum() is executed
 );
 //lamdas are stateless
 numbers.stream()
