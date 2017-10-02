@@ -5,7 +5,7 @@ List<Integer> numbers = Arrays.asList(1, 2, 3, 4);
 ```
 #### Looping with for each in the outdated way
 ```Java
-// tradetional
+// traditional
 for(int i = 0; i < numbers.size(); i++){
   System.out.println(numbers.get(i));
 }
@@ -45,7 +45,7 @@ Types of Programming
 ##### Lambda
 ```Java
 Thread t1 = new Thread(()->System.out.println("Hello from Lambda"));
-t1. start();
+t1.start();
 ```
 ``` Java
 numbers.forEach((Integer e)-> System.out.println(e));
@@ -79,7 +79,7 @@ Stream<Integer> strm = numbers.stream()
           .map(e -> e * factor[0]);
 factor[0] = 0;
 strm.forEach(System.out::println);
-// answer will be all 0, because line 24 will execute after line 26 is executed
+// answer will be all 0, because .map() will never be executed unless strm.forEach(System.out::println) is executed
 
 
 // Stream is the internal iterator
