@@ -1,8 +1,19 @@
-# Java 8 Features
+# Functional Programming in Java 8
 
 ## Lamda, Lists and Looping
 ```Java
 List<Integer> numbers = Arrays.asList(1, 2, 3, 4);
+```
+#### Looping with for each in the outdated way
+```Java
+// tradetional
+// normal foreach
+// new foreach
+numbers.forEach(new Consumer<Integer>(){
+  public void accept(Integer e){
+    System.out.println(e);
+  }
+}
 ```
 
 ### Lambda expression
@@ -59,16 +70,8 @@ numbers.stream()
         .forEach(System.out::println);
 
 ```
-#### Looping with for each
-```Java
-// tradetional
-// normal foreach
-// new foreach
-numbers.forEach(new Consumer<Integer>(){
-  public void accept(Integer e){
-    System.out.println(e);
-  }
-}
 
+###### Credits to [DEVOX](http://www.agiledeveloper.com/downloads.html)
 
-###### Credits to [http://www.agiledeveloper.com/downloads.html]
+# Major Features in Java 9
+
