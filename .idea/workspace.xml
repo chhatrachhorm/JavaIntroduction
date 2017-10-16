@@ -2,35 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="03b1c72a-a071-4c26-896f-587f9e75922d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Examination/ModelExamination/basics/BasicsReview.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Examination/ModelExamination/basics/DerivedClass.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Examination/ModelExamination/package-info.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/InternalExamination/AbstractionInterface/Abstraction/Cars.class" afterPath="$PROJECT_DIR$/bin/InternalExamination/AbstractionInterface/Abstraction/Cars.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dictionaries/chhat.xml" afterPath="$PROJECT_DIR$/.idea/dictionaries/chhat.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BasicConcepts/array/BinarySearch.java" afterPath="$PROJECT_DIR$/BasicConcepts/array/BinarySearch.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BasicConcepts/array/BubleSort.java" afterPath="$PROJECT_DIR$/BasicConcepts/array/BubleSort.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BasicConcepts/controlStructure/NestedForLoop.java" afterPath="$PROJECT_DIR$/BasicConcepts/controlStructure/NestedForLoop.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BasicConcepts/controlStructure/PrintingRemainingChar.java" afterPath="$PROJECT_DIR$/BasicConcepts/controlStructure/PrintingRemainingChar.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BasicConcepts/controlStructure/Reverse.java" afterPath="$PROJECT_DIR$/BasicConcepts/controlStructure/Reverse.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BasicConcepts/controlStructure/ReverseWithNestedFor.java" afterPath="$PROJECT_DIR$/BasicConcepts/controlStructure/ReverseWithNestedFor.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BasicConcepts/controlStructure/SmallerCode.java" afterPath="$PROJECT_DIR$/BasicConcepts/controlStructure/SmallerCode.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BasicConcepts/controlStructure/StudentGrading.java" afterPath="$PROJECT_DIR$/BasicConcepts/controlStructure/StudentGrading.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BasicConcepts/controlStructure/Sum25perOdd.java" afterPath="$PROJECT_DIR$/BasicConcepts/controlStructure/Sum25perOdd.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BasicConcepts/controlStructure/SumDigit.java" afterPath="$PROJECT_DIR$/BasicConcepts/controlStructure/SumDigit.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BasicConcepts/controlStructure/SumEvenOdd.java" afterPath="$PROJECT_DIR$/BasicConcepts/controlStructure/SumEvenOdd.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BasicConcepts/controlStructure/WhileLoop.java" afterPath="$PROJECT_DIR$/BasicConcepts/controlStructure/WhileLoop.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BasicConcepts/controlStructure/forloop.java" afterPath="$PROJECT_DIR$/BasicConcepts/controlStructure/forloop.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BasicConcepts/userDefinedConstant.java" afterPath="$PROJECT_DIR$/BasicConcepts/userDefinedConstant.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Collection/list/ArrayListDemo.java" afterPath="$PROJECT_DIR$/Collection/list/ArrayListDemo.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Collection/set/SetExample.java" afterPath="$PROJECT_DIR$/Collection/set/SetExample.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Collection/sorting/NaturalOrdering.java" afterPath="$PROJECT_DIR$/Collection/sorting/NaturalOrdering.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Examination/InternalExamination/AbstractionInterface/Interface/SecureAirbus.java" afterPath="$PROJECT_DIR$/Examination/InternalExamination/AbstractionInterface/Interface/SecureAirbus.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Examination/InternalExamination/thread/Liveness/Deadlock/BankAccount.java" afterPath="$PROJECT_DIR$/Examination/InternalExamination/thread/Liveness/Deadlock/BankAccount.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ExceptionAndError/exception/TryCatchFinally.java" afterPath="$PROJECT_DIR$/ExceptionAndError/exception/TryCatchFinally.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Threads/synch/MultiLock.java" afterPath="$PROJECT_DIR$/Threads/synch/MultiLock.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Threads/synch/ThreadSyncClass.java" afterPath="$PROJECT_DIR$/Threads/synch/ThreadSyncClass.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Threads/working/ClassToJoin.java" afterPath="$PROJECT_DIR$/Threads/working/ClassToJoin.java" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -281,7 +254,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -520,7 +493,7 @@
       <workItem from="1505032937469" duration="6122000" />
       <workItem from="1505088105278" duration="1415000" />
       <workItem from="1508134818797" duration="160000" />
-      <workItem from="1508135246075" duration="5804000" />
+      <workItem from="1508135246075" duration="6112000" />
     </task>
     <task id="LOCAL-00001" summary="FileOperation">
       <created>1500866140469</created>
@@ -606,11 +579,18 @@
       <option name="project" value="LOCAL" />
       <updated>1505057844087</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Liveness">
+      <created>1508155804730</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1508155804746</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="64008000" />
+    <option name="totallyTimeSpent" value="64316000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="0" />
