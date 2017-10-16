@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class ReverseWithNestedFor {
 
 	public static void main(String[] args) {
-		int i, j, num=0;
+		int i, j, num;
 		try(Scanner s = new Scanner(System.in)){
 			System.out.println("Enter a number: ");
 			num = s.nextInt();

@@ -36,7 +36,7 @@ public class BankAccount {
     public static void main(String[] args) {
         final BankAccount firstAccount = new BankAccount(1000d, 1250);
         final BankAccount secondAccount = new BankAccount(2500d, 1256);
-        Thread send1 = new Thread(new Runnable() {
+        new Thread(new Runnable() {
             @Override
             public void run() {
                 try {
@@ -46,7 +46,7 @@ public class BankAccount {
                 }
             }
         });
-        Thread send2 = new Thread(new Runnable() {
+        new Thread(new Runnable() {
             @Override
             public void run() {
                 try {

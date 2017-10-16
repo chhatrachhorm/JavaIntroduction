@@ -46,18 +46,6 @@ public class SecureAirbus implements Airplanes {
         // secure way :
         Airplanes a = new SecureAirbus();
         a.run();
-
-
-
-
-
-
-
-
-
-
-
-
         // Runtime Class Example
         try {
             Runtime.getRuntime().exec("notepad");

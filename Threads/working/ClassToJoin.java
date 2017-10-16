@@ -4,34 +4,30 @@ public class ClassToJoin {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		Thread t1 = new Thread(new Runnable(){
-			public void run(){
-				for(int i = 0; i < 3; i++){
-					try {
-						Thread.sleep(3000);
-						System.out.println("Hello from thread 1");
-					} catch (InterruptedException e) {
-						// TODO Auto-generated catch block
-						e.printStackTrace();
-					}
-				}
-			}
-		}
-			);
-		Thread t2 = new Thread(new Runnable(){
-			public void run(){
-				for(int i = 0; i < 3; i++){
-					try {
-						Thread.sleep(3000);
-						System.out.println("Hello from thread 2");
-					} catch (InterruptedException e) {
-						// TODO Auto-generated catch block
-						e.printStackTrace();
-					}
-				}
-			}
-		}
-			);
+		Thread t1 = new Thread(() -> {
+            for(int i = 0; i < 3; i++){
+                try {
+                    Thread.sleep(3000);
+                    System.out.println("Hello from thread 1");
+                } catch (InterruptedException e) {
+                    // TODO Auto-generated catch block
+                    e.printStackTrace();
+                }
+            }
+        }
+		);
+		Thread t2 = new Thread(() -> {
+            for(int i = 0; i < 3; i++){
+                try {
+                    Thread.sleep(3000);
+                    System.out.println("Hello from thread 2");
+                } catch (InterruptedException e) {
+                    // TODO Auto-generated catch block
+                    e.printStackTrace();
+                }
+            }
+        }
+		);
 		t1.start();
 		try {
 			t1.join();

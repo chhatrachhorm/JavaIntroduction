@@ -1,7 +1,7 @@
 package synch;
 import java.util.ArrayList;
 /*
- * MulitLocks must be implemented with raw objects with synchronized keywords
+ * MultiLocks must be implemented with raw objects with synchronized keywords
  * The real scenarios here are:
  * 	1) If any of the functions of the class has implemented with synchronized keyword,
  * 	   then the entire object of that class will be locked once a thread come.

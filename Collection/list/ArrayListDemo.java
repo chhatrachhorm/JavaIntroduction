@@ -2,6 +2,7 @@ package list;
 
 import java.util.ArrayList;
 import java.util.Collections;
+import java.util.List;
 
 public class ArrayListDemo {
 
@@ -37,8 +38,6 @@ public class ArrayListDemo {
 			System.out.println(c);
 		}
 		System.out.println("Finally: "+c);
-		
-		
 	}
 
 }

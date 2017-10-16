@@ -1,5 +1,5 @@
 /*
- * User-D0efined constant
+ * User-Defined constant
  * Static Block
  */
 public class userDefinedConstant {

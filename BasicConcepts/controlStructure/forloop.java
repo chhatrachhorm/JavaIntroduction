@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class forloop {
 
 	public static void main(String[] args) {
-		int num = 0;
+		int num;
 		System.out.println("Enter a num: ");
 		num = new Scanner(System.in).nextInt();
 		for(int i=0; i<num; i++)

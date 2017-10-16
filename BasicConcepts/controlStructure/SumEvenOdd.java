@@ -4,7 +4,6 @@ public class SumEvenOdd {
 
 	public void sum(int num){
 		int total1=0, total2=0, i=0;
-		int m = (num%2!=0)?1:0;
 		while(i<=num/2){
 			total1 += i*2+1;
 			i++;

@@ -11,8 +11,9 @@ public class TryCatchFinally {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		byte b[]= new byte[1000];
+		FileInputStream fis;
 		try{
-			FileInputStream fis = new FileInputStream("D:\\html.html");
+			fis = new FileInputStream("D:\\html.html");
 			System.out.println(" Success");
 			fis.read(b);
 			String s = new String(b);

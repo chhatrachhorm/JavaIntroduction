@@ -3,8 +3,8 @@ import java.util.Scanner;
 public class BinarySearch {
 
 	public static int binarySearch(int a[], int ele, int size){
-		int pos = -1, beg=0, mid, last =size-1, i=0;
-		while(i<size){
+		int pos = -1, beg=0, mid, last =size-1;
+		while(beg <= last){
 			mid = (beg+last)/2;
 			if(ele == a[mid]){
 				return mid;

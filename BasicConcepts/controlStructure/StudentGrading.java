@@ -17,7 +17,7 @@ public class StudentGrading {
 		try(Scanner scan = new Scanner(System.in)){
 			System.out.printf("Please Enter your name: ");
 			std.name = scan.nextLine();
-			System.out.printf("Please Enter your rollnumber: ");
+			System.out.printf("Please Enter your roll number: ");
 			std.roll = scan.nextInt();
 			System.out.println("Enter the three mark: ");
 			std.mark1 = scan.nextFloat();

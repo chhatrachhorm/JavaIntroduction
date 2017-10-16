@@ -5,7 +5,7 @@ public class Sum25perOdd {
  * BODMAS
  * */
 	public static void main(String[] args) {
-		int num, i=0, total=0, limit=0;
+		int num, i=0, total=0, limit;
 		try(Scanner s = new Scanner(System.in)){
 			System.out.println("Enter a num: ");
 			num = s.nextInt();

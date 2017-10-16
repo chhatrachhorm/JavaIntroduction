@@ -4,7 +4,7 @@ public class PrintingRemainingChar {
 
 	public static void main(String[] args) {
 		char ch;
-		int before=0, after=0;
+		int before, after;
 		try(Scanner s = new Scanner(System.in)){
 			System.out.println("Enter a character: ");
 			ch = s.next(".").charAt(0);

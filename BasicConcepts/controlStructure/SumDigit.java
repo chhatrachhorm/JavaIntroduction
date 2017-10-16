@@ -7,7 +7,7 @@ public class SumDigit {
 	public static void main(String[] args) {
 		int num, test, sum=0;
 		try(Scanner s = new Scanner(System.in)){
-			System.out.println("Enter a number to be reveresed");
+			System.out.println("Enter a number to be reversed");
 			num = s.nextInt();
 		}
 		test = num;
@@ -17,7 +17,6 @@ public class SumDigit {
 			test /= 10;
 		}
 		System.out.printf("\b\b = %d", sum);
-//	Computer is very important in education
 	}
 
 }

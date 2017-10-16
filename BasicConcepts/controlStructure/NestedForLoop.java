@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class NestedForLoop {
 
 	public static void main(String[] args) {
-		int i, j, num=0, total=0;
+		int i, j, num, total=0;
 		try(Scanner s = new Scanner(System.in)){
 			System.out.println("Enter a number: ");
 			num = s.nextInt();
@@ -50,7 +50,6 @@ public class NestedForLoop {
 			System.out.println();
 		}
 		System.out.println("Reverse Right Triangle Number: ");
-		total = 0;
 		for(i=1; i<=num; i++){
 			for(j=1; j<=num; j++){
 				if(j<=num-i)
