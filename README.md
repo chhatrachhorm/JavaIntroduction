@@ -1,3 +1,6 @@
+# Java
+#### For Core Java, Check this [Document](https://github.com/chhatrachhorm/JavaIntroduction/blob/master/Examination/Papers/Model/Examination.md)
+
 # Functional Programming in Java 8
 ## Lamda, Lists and Looping
 ```Java
