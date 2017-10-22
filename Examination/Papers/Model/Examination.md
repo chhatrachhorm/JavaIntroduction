@@ -36,7 +36,7 @@
     * Virtual CPU
 9. LifeCycle of a Thread
 10. Array is a collection of similar data items stored in contiguous memory locations under a common name. Array is immutable.
-```
+```java
 // Syntax to create array
 // <datatype>[] name = new <datatype>[size];
 int[] arr = new int[100];
@@ -585,58 +585,58 @@ int[] arr = new int[100];
         }
         ```
     4. join(), sleep(), wait(), notify(), notifyAll()
-```java
-public class VisitingMalaysia{
-    private int distance = 100525;
-    public synchronized void startGoing(){
-        System.out.println("Leaving home for the airport");
-        System.out.println("Reach the airport...Flying now");
-        try{
-             wait();
-        }catch (Exception e){e.printStackTrace();}
-        System.out.println("Reached Malaysia");
-    }
-    public synchronized void welcomeToMalaysia(){
-        try{
-            wait();
-        }catch (Exception e){e.printStackTrace();}
-        System.out.println("Welcome to Malaysia");
-    }
-    public synchronized void startJourney(){
-        int i = 0;
-        try{
-            Thread.sleep(100);
-        }catch (Exception e) {e.printStackTrace();}
-        do{
-            i++;
-        }while(i != distance);
-        notifyAll();
-    }
-    public static void main(String[] args){
-      VisitingMalaysia obj = new VisitingMalaysia();
-      Thread chhatra = new Thread(new Runnable() {
-          @Override
-          public void run(){obj.startGoing();}
-      });
-      Thread local= new Thread(new Runnable() {
-          @Override
-          public void run(){obj.welcomeToMalaysia();}
-      });
-      Thread flying = new Thread(new Runnable() {
-          @Override
-          public void run(){obj.startJourney();}
-      });
-      chhatra.start();
-      local.start();
-      flying.start();
-      try{
-          chhatra.join();
-          local.join();
-          flying.join();
-      }catch (Exception e){
-          e.printStackTrace();
-      }
-      System.out.println("Arrived Safe and Sound");
-    }
-}
-```       
+        ```java
+        public class VisitingMalaysia{
+            private int distance = 100525;
+            private synchronized void startGoing(){
+                System.out.println("Leaving home for the airport");
+                System.out.println("Reach the airport...Flying now");
+                try{
+                     wait();
+                }catch (Exception e){e.printStackTrace();}
+                System.out.println("Reached Malaysia");
+            }
+            private synchronized void welcomeToMalaysia(){
+                try{
+                    wait();
+                }catch (Exception e){e.printStackTrace();}
+                System.out.println("Welcome to Malaysia");
+            }
+            private synchronized void startJourney(){
+                int i = 0;
+                try{
+                    Thread.sleep(100);
+                }catch (Exception e) {e.printStackTrace();}
+                do{
+                    i++;
+                }while(i != distance);
+                notifyAll();
+            }
+            public static void main(String[] args){
+              VisitingMalaysia obj = new VisitingMalaysia();
+              Thread chhatra = new Thread(new Runnable() {
+                  @Override
+                  public void run(){obj.startGoing();}
+              });
+              Thread local= new Thread(new Runnable() {
+                  @Override
+                  public void run(){obj.welcomeToMalaysia();}
+              });
+              Thread flying = new Thread(new Runnable() {
+                  @Override
+                  public void run(){obj.startJourney();}
+              });
+              chhatra.start();
+              local.start();
+              flying.start();
+              try{
+                  chhatra.join();
+                  local.join();
+                  flying.join();
+              }catch (Exception e){
+                  e.printStackTrace();
+              }
+              System.out.println("Arrived Safe and Sound");
+            }
+        }
+        ```       
