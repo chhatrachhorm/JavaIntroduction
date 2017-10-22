@@ -26,6 +26,5 @@ public class HashMapDemo
         * List cannot be used with values() because the implementation is not the same,
         * the collection interface should be used with values() set from map
         * */
-
     }
 }

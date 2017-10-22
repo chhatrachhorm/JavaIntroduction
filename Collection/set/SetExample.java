@@ -33,8 +33,9 @@ public class SetExample {
 		s2.add(13);
 		s2.add(45);
 		/*
-		 * Elements will be sorted based on ASEC (ascending order) or predefined sort
+		 * Elements will be sorted based on ASC (ascending order) or predefined sort
 		 * */
 		System.out.println("TreeSet: " + s2);
+		
 	}
 }

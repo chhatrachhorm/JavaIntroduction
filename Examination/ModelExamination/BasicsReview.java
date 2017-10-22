@@ -1,4 +1,4 @@
-package ModelExamination.basics;
+package ModelExamination;
 
 public class BasicsReview {
     // const and static fields

@@ -1,9 +1,11 @@
 package array;
 import java.util.ArrayList;
+
 public class listOfArray {
 
 		//List list = new ArrayList();
 		ArrayList list = new ArrayList();
+
 		public void addData(){
 			list.add(199.4);
 			list.add(1000);

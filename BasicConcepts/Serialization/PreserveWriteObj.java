@@ -23,8 +23,6 @@ public class PreserveWriteObj {
             FileOutputStream fos = new FileOutputStream("BasicConcepts/fileOperation/FIleStorage/ObjPreserve.bin");
             ObjectOutputStream ois = new ObjectOutputStream(fos);
             ois.writeObject(f1);
-        } catch (FileNotFoundException e) {
-            e.printStackTrace();
         } catch (IOException e) {
             e.printStackTrace();
         }

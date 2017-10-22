@@ -1,4 +1,4 @@
-package ModelExamination.basics;
+package ModelExamination;
 
 public class DerivedClass extends BasicsReview {
     // constructor the super class

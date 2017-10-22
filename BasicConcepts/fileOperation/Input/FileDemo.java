@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 public class FileDemo {
     public static void main(String args[]){
-        File file = new File("BasicConcepts/fileOperation/FIleStorage/fileDemo.txt");
+        File file = new File("BasicConcepts/fileOperation/FIleStorage/file.docx");
         if(file.exists()){
             System.out.println("The file is exist");
         }else{

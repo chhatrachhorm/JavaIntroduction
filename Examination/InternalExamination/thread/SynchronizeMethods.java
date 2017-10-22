@@ -1,5 +1,5 @@
 package InternalExamination.thread;
-/*
+/**
 * Multiple processes in one field
 * */
 public class SynchronizeMethods {

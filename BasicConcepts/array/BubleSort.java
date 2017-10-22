@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class BubleSort {
 
-	public static void bubleSort(int a[], int n){
+	public static int[] bubleSort(int a[], int n){
 		for(int i=0; i<n; i++){
 			for(int j=0; j<n-1-i; j++){
 				if(a[j]>a[j+1]){
@@ -17,6 +17,7 @@ public class BubleSort {
 		for(int i = 0; i<n; i++){
 			System.out.print(a[i]+" ");
 		}
+		return a;
 	}
 	public static void main(String[] args) {
 		int a[], n;

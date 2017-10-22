@@ -7,13 +7,13 @@ import java.util.Scanner;
 public class EndlessDirs {
     public static void main(String args[]){
         char c = 'A';
-        String s = "BasicConcepts/fileOperation/FIleStorage/EndlessDir/";
+        StringBuilder s = new StringBuilder("BasicConcepts/fileOperation/FIleStorage/EndlessDir/");
         for(int i = 0; i < 26 ; i++){
-            s += c;
-            s += "/";
+            s.append(c);
+            s.append("/");
             c++;
         }
-        File dir = new File(s);
+        File dir = new File(s.toString());
         if(dir.exists()){
             System.out.println("The directories exist!");
         }else{

@@ -15,9 +15,7 @@ public class ReadPreserveObj {
             ObjectInputStream ois = new ObjectInputStream(new FileInputStream("BasicConcepts/fileOperation/FIleStorage/ObjPreserve.bin"));
             Fruit f = (Fruit)ois.readObject();
             System.out.println(f);
-        } catch (IOException e) {
-            e.printStackTrace();
-        } catch (ClassNotFoundException e) {
+        } catch (IOException | ClassNotFoundException e) {
             e.printStackTrace();
         }
     }
