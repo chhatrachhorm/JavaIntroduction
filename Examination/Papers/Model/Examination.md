@@ -1,4 +1,4 @@
-### KIT Core Java Model Examination
+# KIT Core Java Model Examination
 #### Part A
 1. Responsibilities of JVM are to load the bytecode file, verify that file and to execute it.
 2. Difference between String and StringBuffer
@@ -22,7 +22,7 @@
         * Subdivided into Objects
         * Support Inheritance, Encapsulation, Abstraction and Polymorphism
         * Focus on Data
-    [Ref](http://freefeast.info/general-it-articles/difference-between-procedure-oriented-programming-and-object-oriented-programming-procedure-oriented-programming-vs-object-oriented-programming/)
+        * [Ref](http://freefeast.info/general-it-articles/difference-between-procedure-oriented-programming-and-object-oriented-programming-procedure-oriented-programming-vs-object-oriented-programming/)
 5. Definitions
     * Abstract Function is the function declared with abstract keyword that has only function prototype.
     * Abstract Class is the class declared with abstract keyword that has abstract and concrete functions or a class with partial implementation.
@@ -36,11 +36,13 @@
     * Virtual CPU
 9. LifeCycle of a Thread
 10. Array is a collection of similar data items stored in contiguous memory locations under a common name. Array is immutable.
-```java
-// Syntax to create array
-// <datatype>[] name = new <datatype>[size];
-int[] arr = new int[100];
-```
+    ```java
+    /*
+    * Syntax to create array
+    * <datatype>[] name = new <datatype>[size];
+    */
+    int[] arr = new int[100];
+    ```
 #### Part B
 1. Internal Parts of JVM
    1. Class Loader
