@@ -14,8 +14,6 @@ public class Catches {
             fis.read(b);
             String s = new String(b).trim();
             System.out.println(s);
-        } catch (FileNotFoundException e) {
-            e.printStackTrace();
         } catch (IOException e){
             e.printStackTrace();
         }

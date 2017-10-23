@@ -1,8 +1,8 @@
 package inheritance;
 
-public class BaseClass {
+class BaseClass {
 	private int a=3000;
-	public int Value(){
+	int Value(){
 		return a;
 	}
 }

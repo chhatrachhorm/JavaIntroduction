@@ -13,8 +13,6 @@ public class DataOutputStreamDemo {
             }
             dos.write(name.getBytes());
             dos.close();
-        } catch (FileNotFoundException e) {
-            e.printStackTrace();
         } catch (IOException e) {
             e.printStackTrace();
         }

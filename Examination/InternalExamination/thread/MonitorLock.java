@@ -6,24 +6,24 @@ package InternalExamination.thread;
  */
 
 public class MonitorLock {
-    static int a = 0;
-    static int b = 0;
-    static final Object obj1 = new Object();
-    static final Object obj2 = new Object();
-    static void setVal1()throws Exception{
+    private static int a = 0;
+    private static int b = 0;
+    private static final Object obj1 = new Object();
+    private static final Object obj2 = new Object();
+    private static void setVal1()throws Exception{
         synchronized(obj1){
             a++;
             Thread.sleep(1);
         }
 
     }
-    static void setVal2() throws Exception{
+    private static void setVal2() throws Exception{
         synchronized (obj2){
             b++;
             Thread.sleep(1);
         }
     }
-    static void process(){
+    private static void process(){
        for(int i = 0; i<400; i++){
            try{
                setVal1();

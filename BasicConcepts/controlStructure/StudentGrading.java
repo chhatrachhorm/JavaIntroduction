@@ -8,10 +8,10 @@ package controlStructure;
 import java.util.Scanner;
 	
 public class StudentGrading {
-	String name;
-	char grade;
-	int roll;
-	float mark1, mark2, mark3, avg, total;
+	private String name;
+	private char grade;
+	private int roll;
+	private float mark1, mark2, mark3, avg, total;
 	public static void main(String[] args) {
 		StudentGrading std = new StudentGrading();
 		try(Scanner scan = new Scanner(System.in)){

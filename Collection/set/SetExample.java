@@ -1,8 +1,5 @@
 package set;
-import java.util.HashSet;
-import java.util.LinkedHashSet;
-import java.util.Set;
-import java.util.TreeSet;
+import java.util.*;
 
 public class SetExample {
 	public static void main(String[] a){
@@ -32,10 +29,10 @@ public class SetExample {
 		s2.add(2);
 		s2.add(13);
 		s2.add(45);
+		s2.remove(125);
 		/*
 		 * Elements will be sorted based on ASC (ascending order) or predefined sort
 		 * */
 		System.out.println("TreeSet: " + s2);
-		
 	}
 }

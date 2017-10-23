@@ -2,7 +2,7 @@ package controlStructure;
 import java.util.Scanner;
 
 public class IfAndElseExample {
-	int age;
+	private int age;
 	public static void main(String[] args) {
 		IfAndElseExample test = new IfAndElseExample();
 		/*

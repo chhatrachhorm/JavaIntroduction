@@ -1,8 +1,8 @@
 package controlStructure;
 import java.util.Scanner;
 public class Grading {
-	float mark;
-	char grade;
+	private float mark;
+	private char grade;
 	public static void main(String[] args) {
 		Grading g = new Grading();
 		try(Scanner s = new Scanner(System.in)){

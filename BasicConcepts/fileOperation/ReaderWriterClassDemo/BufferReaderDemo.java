@@ -16,8 +16,6 @@ public class BufferReaderDemo {
             while((ascii = br.read())!=-1){
                 System.out.println((char)ascii + " " + ascii);
             }
-        } catch (FileNotFoundException e) {
-            e.printStackTrace();
         } catch (IOException e) {
             e.printStackTrace();
         }

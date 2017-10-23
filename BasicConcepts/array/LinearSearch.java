@@ -18,7 +18,6 @@ public class LinearSearch {
 		 * if []a then the other variables have to be an array type
 		 * */
 		try(Scanner scan = new Scanner(System.in)){
-			System.out.println("Please Enter numbers of the elements: ");
 			n = scan.nextInt();
 			a = new int[n];
 			System.out.println("Please Enter the elements: ");

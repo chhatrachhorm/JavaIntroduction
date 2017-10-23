@@ -8,8 +8,7 @@ public class UsingAnonymousObject{
 		 * Create an object for Runnable class
 		 * Define run() method that has the body as you want
 		 * */
-		Thread t = new Thread(
-					new Runnable(){
+		Thread t = new Thread(new Runnable(){
 						public void run(){
 							for(int i = 0; i < 5; i++)
 								System.out.println("Hello From Anonymous Object");

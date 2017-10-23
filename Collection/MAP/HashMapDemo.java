@@ -7,12 +7,13 @@ import java.util.*;
 public class HashMapDemo
 {
     public static void main(String[] args){
-        Map map = new HashMap<Integer, String>();
+        Map<Integer, String> map = new HashMap<>();
         map.put(1, "Derek");
         map.put(21, "Ong");
         map.put(12, "Yong");
         map.put(23, "Sim");
-        System.out.println(map);
+        System.out.println(map.get(1));
+        System.out.println(map.size());
         System.out.println(map.keySet());
         System.out.println(map.values());
         /**/
@@ -21,10 +22,8 @@ public class HashMapDemo
         Collection<String> col = map.values();
         System.out.println(col);
         /*
-        * Set can be used with the keySet() because keySet is already unique
-        * Set cannot be used with values() because values can be duplicated values
-        * List cannot be used with values() because the implementation is not the same,
-        * the collection interface should be used with values() set from map
+        * keySet() return set
+        * values() return Collection
         * */
     }
 }

@@ -17,8 +17,6 @@ public class FIleOutputStreamDemo {
             fos.write(b);
             fos.close();
 
-        } catch (FileNotFoundException e) {
-            e.printStackTrace();
         } catch (IOException e) {
             e.printStackTrace();
         }

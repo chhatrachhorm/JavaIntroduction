@@ -18,8 +18,6 @@ public class BufferOutputStreamDemo {
             bos.write(name.getBytes());
 //            For output stream, do not forget to close the file
             bos.close();
-        } catch (FileNotFoundException e) {
-            e.printStackTrace();
         } catch (IOException e) {
             e.printStackTrace();
         }

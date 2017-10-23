@@ -26,7 +26,7 @@ public class PrintingRemainingChar {
 			System.out.println("There are "+before+" before "+ch);
 			if(ch!='z'){
 				while(ch<'z'){
-					System.out.print(++ch+" ");
+					System.out.print(++ch + " ");
 					after++;
 				}
 			}

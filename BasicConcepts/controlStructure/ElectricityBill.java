@@ -7,8 +7,8 @@ import java.util.Scanner;
  * if unit > 200 -> perunit => 2000
  * */
 public class ElectricityBill {
-	int unit, perunit;
-	float amount, kd;
+	private int unit, perunit;
+	private float amount, kd;
 	private int price(int a){
 		int p;
 		if(a>=100)p = 1200;
