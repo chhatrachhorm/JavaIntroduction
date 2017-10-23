@@ -460,6 +460,24 @@ int[] arr = new int[100];
             * manipulation is faster - no bit shifting
             * can act a list and queue
             * better for manipulation
+        * [Technical Performance Discussion](https://stackoverflow.com/questions/322715/when-to-use-linkedlist-over-arraylist)
+            * LinkedList
+                * `get(int index)` is O(n/4)
+                * `add(E element)` is O(1)
+                * `add(int index, E element)` is O(n/4)
+                 but O(1) when index = 0 <- main benefit
+                * `remove(int index)` is O(n/4)
+                * `Iterator.remove()` is O(1) <- main benefit
+                * `ListIterator.add(E element)` is O(1) <- main benefit
+                * Nota Bene: O(n/4) is average, O(1) best case (start of the list), O(n/2) worst case (middle of the list) 
+            * ArrayList
+                * `get(int index)` is O(1) <- main benefit
+                * `add(E element)` is O(1) amortized, but O(n) since it has to be copied
+                * `add(int index, E element)` is O(n/2)
+                * `remove(int index)` is O(n/2)
+                * `Iterator.remove()` is O(n/2)
+                * `ListIterator.add(E element)` is O(n/2)
+                * Nota Bene: O(n/2) average, O(1) best case (end of the list), O(n) worse case (start of the list)
         * Measurements
             ```java
             public class DemoC4A1 {
