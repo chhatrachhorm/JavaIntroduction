@@ -14,7 +14,11 @@ public class DemoB3 {
             char[] arr = new String(b).trim().replace("\n", "").replace("\r", "").toCharArray();
             System.out.println("length of array " + arr.length);
             for(char c: arr){
-                if(!(((int)'A' <= (int)c && (int)c <= (int)'Z') || ((int)'a' <= (int) c && (int)c <= (int)'z') || ((int)'0' <= (int)c && (int)c <= (int)'9'))){
+//                if(!(((int)'A' <= (int)c && (int)c <= (int)'Z') || ((int)'a' <= (int) c && (int)c <= (int)'z') || ((int)'0' <= (int)c && (int)c <= (int)'9'))){
+//                    System.out.println(c);
+//                    total++;
+//                }
+                if(!(('A' <= c && c <= 'Z') || ('a' <= c && c <= 'z') || ('0' <= c && c <= '9'))){
                     System.out.println(c);
                     total++;
                 }

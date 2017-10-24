@@ -20,5 +20,4 @@ public class NaturalOrdering {
 		Collections.sort(student);
 		System.out.println(student);
 	}
-
 }
