@@ -2,17 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="03b1c72a-a071-4c26-896f-587f9e75922d" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/InternalExamination/ThrowableClass/CompileTimeExceptionDemo/Catches.class" afterPath="$PROJECT_DIR$/bin/InternalExamination/ThrowableClass/CompileTimeExceptionDemo/Catches.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/InternalExamination/ThrowableClass/User_Defined_Exception/Election.class" afterPath="$PROJECT_DIR$/bin/InternalExamination/ThrowableClass/User_Defined_Exception/Election.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/InternalExamination/thread/MonitorLock$1.class" afterPath="$PROJECT_DIR$/bin/InternalExamination/thread/MonitorLock$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/InternalExamination/thread/MonitorLock$2.class" afterPath="$PROJECT_DIR$/bin/InternalExamination/thread/MonitorLock$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/InternalExamination/thread/MonitorLock.class" afterPath="$PROJECT_DIR$/bin/InternalExamination/thread/MonitorLock.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/MAP/HashMapDemo.class" afterPath="$PROJECT_DIR$/bin/MAP/HashMapDemo.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/set/SetExample.class" afterPath="$PROJECT_DIR$/bin/set/SetExample.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/sorting/Students.class" afterPath="$PROJECT_DIR$/bin/sorting/Students.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Algorithms/Analysis/BubleSort.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Algorithms/Analysis/InsertionSort.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Algorithms/Analysis/MergeSort.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Algorithms/Analysis/QuickSort.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Algorithms/Analysis/SelectionSort.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Algorithms/Utility/PrintArray.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Collection/sorting/NaturalOrdering.java" afterPath="$PROJECT_DIR$/Collection/sorting/NaturalOrdering.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Examination/Papers/Model/Codes/DemoB3.java" afterPath="$PROJECT_DIR$/Examination/Papers/Model/Codes/DemoB3.java" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,64 +20,63 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="DemoC1A.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Examination/Papers/Model/Codes/DemoC1A.java">
+      <file leaf-file-name="BubleSort.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Algorithms/Analysis/BubleSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DemoC1B.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Examination/Papers/Model/Codes/DemoC1B.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DemoC2B.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Examination/Papers/Model/Codes/DemoC2B.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DemoC3A.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Examination/Papers/Model/Codes/DemoC3A.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="10" column="12" lean-forward="true" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+            <state relative-caret-position="799">
+              <caret line="47" column="46" lean-forward="false" selection-start-line="47" selection-start-column="46" selection-end-line="47" selection-end-column="46" />
               <folding>
-                <element signature="e#251#252#0" expanded="true" />
-                <element signature="e#296#297#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DemoB2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Examination/Papers/Model/Codes/DemoB2.java">
+      <file leaf-file-name="InsertionSort.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Algorithms/Analysis/InsertionSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            <state relative-caret-position="408">
+              <caret line="24" column="45" lean-forward="true" selection-start-line="24" selection-start-column="45" selection-end-line="24" selection-end-column="45" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DemoB3.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Examination/Papers/Model/Codes/DemoB3.java">
+      <file leaf-file-name="MergeSort.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Algorithms/Analysis/MergeSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="22" column="28" lean-forward="true" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
+            <state relative-caret-position="553">
+              <caret line="52" column="5" lean-forward="true" selection-start-line="52" selection-start-column="5" selection-end-line="52" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="QuickSort.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Algorithms/Analysis/QuickSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="230">
+              <caret line="32" column="30" lean-forward="true" selection-start-line="32" selection-start-column="30" selection-end-line="32" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SelectionSort.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Algorithms/Analysis/SelectionSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="20" column="41" lean-forward="false" selection-start-line="20" selection-start-column="41" selection-end-line="20" selection-end-column="41" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PrintArray.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Algorithms/Utility/PrintArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -97,6 +92,7 @@
         <option value="Kotlin File" />
         <option value="package-info" />
         <option value="Interface" />
+        <option value="Arquillian TestNG Test Class" />
         <option value="Class" />
       </list>
     </option>
@@ -112,14 +108,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Threads/multiThreads/JoinandWait.java" />
-        <option value="$PROJECT_DIR$/Examination/InternalExamination/ThrowableClass/Assertions/AssertionError.java" />
-        <option value="$PROJECT_DIR$/Examination/ModelExamination/Compare.java" />
-        <option value="$PROJECT_DIR$/Examination/Papers/Model/Codes/DemoB2.java" />
-        <option value="$PROJECT_DIR$/Examination/Papers/Model/Codes/mytitle.txt" />
-        <option value="$PROJECT_DIR$/Examination/Papers/Model/Codes/Boeing.java" />
-        <option value="$PROJECT_DIR$/Examination/Papers/Model/Codes/DemoB4/MyAirplanes.java" />
-        <option value="$PROJECT_DIR$/Examination/Papers/Model/Codes/DemoB4/Boeing.java" />
         <option value="$PROJECT_DIR$/Examination/Papers/Model/Codes/DemoB4/MyCars.java" />
         <option value="$PROJECT_DIR$/Examination/Papers/Model/Codes/DemoB4/Lexus.java" />
         <option value="$PROJECT_DIR$/Examination/Papers/Model/Codes/DemoB5.java" />
@@ -163,6 +151,14 @@
         <option value="$PROJECT_DIR$/Collection/sorting/Students.java" />
         <option value="$PROJECT_DIR$/Examination/Papers/Model/Codes/DemoC3A.java" />
         <option value="$PROJECT_DIR$/Examination/Papers/Model/Codes/DemoB3.java" />
+        <option value="$PROJECT_DIR$/Algorithms/Analysis/BubleSortTest.java" />
+        <option value="$PROJECT_DIR$/Algorithms/Analysis/PrintArray.java" />
+        <option value="$PROJECT_DIR$/Algorithms/Analysis/QuickSort.java" />
+        <option value="$PROJECT_DIR$/Algorithms/Analysis/SelectionSort.java" />
+        <option value="$PROJECT_DIR$/Algorithms/Utility/PrintArray.java" />
+        <option value="$PROJECT_DIR$/Algorithms/Analysis/BubleSort.java" />
+        <option value="$PROJECT_DIR$/Algorithms/Analysis/InsertionSort.java" />
+        <option value="$PROJECT_DIR$/Algorithms/Analysis/MergeSort.java" />
       </list>
     </option>
   </component>
@@ -204,7 +200,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -215,35 +210,27 @@
             <path>
               <item name="JavaIntroduction" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaIntroduction" type="462c0819:PsiDirectoryNode" />
-              <item name="Examination" type="462c0819:PsiDirectoryNode" />
+              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaIntroduction" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaIntroduction" type="462c0819:PsiDirectoryNode" />
-              <item name="Examination" type="462c0819:PsiDirectoryNode" />
-              <item name="Papers" type="462c0819:PsiDirectoryNode" />
+              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="Analysis" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaIntroduction" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaIntroduction" type="462c0819:PsiDirectoryNode" />
-              <item name="Examination" type="462c0819:PsiDirectoryNode" />
-              <item name="Papers" type="462c0819:PsiDirectoryNode" />
-              <item name="Model" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaIntroduction" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaIntroduction" type="462c0819:PsiDirectoryNode" />
-              <item name="Examination" type="462c0819:PsiDirectoryNode" />
-              <item name="Papers" type="462c0819:PsiDirectoryNode" />
-              <item name="Model" type="462c0819:PsiDirectoryNode" />
-              <item name="Codes" type="462c0819:PsiDirectoryNode" />
+              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="Utility" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -252,9 +239,18 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/Algorithms/Analysis" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Arquillian TestNG" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="Analysis" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="org.jboss.arquillian.testng.Arquillian" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
@@ -271,15 +267,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DemoB3">
-    <configuration name="CompareObjectInUserDefineDT" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.MergeSort">
+    <configuration name="BubleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="sorting.*" />
+          <option name="PATTERN" value="Utility.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="sorting.CompareObjectInUserDefineDT" />
+      <option name="MAIN_CLASS_NAME" value="Analysis.BubleSort" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -291,14 +287,14 @@
       <module name="JavaIntroduction" />
       <envs />
     </configuration>
-    <configuration name="DemoB3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="InsertionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="Papers.Model.Codes.*" />
+          <option name="PATTERN" value="Utility.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="Papers.Model.Codes.DemoB3" />
+      <option name="MAIN_CLASS_NAME" value="Analysis.InsertionSort" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -310,14 +306,14 @@
       <module name="JavaIntroduction" />
       <envs />
     </configuration>
-    <configuration name="NaturalOrdering" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="MergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="sorting.*" />
+          <option name="PATTERN" value="Utility.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="sorting.NaturalOrdering" />
+      <option name="MAIN_CLASS_NAME" value="Analysis.MergeSort" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -329,14 +325,14 @@
       <module name="JavaIntroduction" />
       <envs />
     </configuration>
-    <configuration name="PrintingRemainingChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="controlStructure.*" />
+          <option name="PATTERN" value="Utility.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="controlStructure.PrintingRemainingChar" />
+      <option name="MAIN_CLASS_NAME" value="Analysis.QuickSort" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -348,14 +344,14 @@
       <module name="JavaIntroduction" />
       <envs />
     </configuration>
-    <configuration name="SetExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="SelectionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="set.*" />
+          <option name="PATTERN" value="Utility.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="set.SetExample" />
+      <option name="MAIN_CLASS_NAME" value="Analysis.SelectionSort" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -448,19 +444,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.PrintingRemainingChar" />
-      <item index="1" class="java.lang.String" itemvalue="Application.SetExample" />
-      <item index="2" class="java.lang.String" itemvalue="Application.NaturalOrdering" />
-      <item index="3" class="java.lang.String" itemvalue="Application.CompareObjectInUserDefineDT" />
-      <item index="4" class="java.lang.String" itemvalue="Application.DemoB3" />
+      <item index="0" class="java.lang.String" itemvalue="Application.BubleSort" />
+      <item index="1" class="java.lang.String" itemvalue="Application.InsertionSort" />
+      <item index="2" class="java.lang.String" itemvalue="Application.MergeSort" />
+      <item index="3" class="java.lang.String" itemvalue="Application.QuickSort" />
+      <item index="4" class="java.lang.String" itemvalue="Application.SelectionSort" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.DemoB3" />
-        <item index="1" class="java.lang.String" itemvalue="Application.CompareObjectInUserDefineDT" />
-        <item index="2" class="java.lang.String" itemvalue="Application.NaturalOrdering" />
-        <item index="3" class="java.lang.String" itemvalue="Application.SetExample" />
-        <item index="4" class="java.lang.String" itemvalue="Application.PrintingRemainingChar" />
+        <item index="0" class="java.lang.String" itemvalue="Application.MergeSort" />
+        <item index="1" class="java.lang.String" itemvalue="Application.InsertionSort" />
+        <item index="2" class="java.lang.String" itemvalue="Application.BubleSort" />
+        <item index="3" class="java.lang.String" itemvalue="Application.SelectionSort" />
+        <item index="4" class="java.lang.String" itemvalue="Application.QuickSort" />
       </list>
     </recent_temporary>
   </component>
@@ -498,7 +494,15 @@
       <workItem from="1508742297744" duration="37000" />
       <workItem from="1508744318097" duration="14890000" />
       <workItem from="1508803679457" duration="272000" />
-      <workItem from="1508806964305" duration="2024000" />
+      <workItem from="1508806964305" duration="2067000" />
+      <workItem from="1508834545380" duration="171000" />
+      <workItem from="1508848509496" duration="112000" />
+      <workItem from="1510628940868" duration="693000" />
+      <workItem from="1510801375837" duration="1022000" />
+      <workItem from="1510806343323" duration="99000" />
+      <workItem from="1510819053752" duration="14000" />
+      <workItem from="1512993809863" duration="4998000" />
+      <workItem from="1512998880015" duration="10035000" />
     </task>
     <task id="LOCAL-00001" summary="FileOperation">
       <created>1500866140469</created>
@@ -640,11 +644,18 @@
       <option name="project" value="LOCAL" />
       <updated>1508766980094</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="ModelExamination">
+      <created>1508824482269</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1508824482269</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="114934000" />
+    <option name="totallyTimeSpent" value="132121000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
@@ -658,12 +669,12 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32917318" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28081122" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3381877" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32917318" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32847896" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27086383" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17397882" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -729,55 +740,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/BasicConcepts/presentation/UsingAnonymousObject.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="30" lean-forward="false" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BasicConcepts/ConstructorStrudent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bin/array/BinarySearch.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="141">
-          <caret line="59" column="35" lean-forward="true" selection-start-line="59" selection-start-column="35" selection-end-line="59" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Collection/list/LinkedListDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ExceptionAndError/exception/Dummy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ExceptionAndError/exception/NullPointException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="13" lean-forward="false" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ExceptionAndError/exception/RuntimeException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ExceptionAndError/exception/ThrowsException.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -1000,61 +962,6 @@
         <state split_layout="FIRST">
           <first_editor relative-caret-position="-51">
             <caret line="36" column="24" lean-forward="true" selection-start-line="36" selection-start-column="24" selection-end-line="36" selection-end-column="24" />
-            <folding>
-              <marker date="1508749363128" expanded="true" signature="2183:2185" ph="/.../" />
-              <marker date="1508749363128" expanded="true" signature="2183:2269" ph="/.../" />
-              <marker date="1508749363128" expanded="true" signature="3485:3980" ph="{...}" />
-              <marker date="1508749363128" expanded="true" signature="4214:5174" ph="{...}" />
-              <marker date="1508749363128" expanded="true" signature="5650:5829" ph="{...}" />
-              <marker date="1508749363128" expanded="true" signature="5882:6479" ph="{...}" />
-              <marker date="1508749363128" expanded="true" signature="5956:6069" ph="{...}" />
-              <marker date="1508749363128" expanded="true" signature="6141:6254" ph="{...}" />
-              <marker date="1508749363128" expanded="true" signature="6309:6465" ph="{...}" />
-              <marker date="1508749363128" expanded="true" signature="6847:7102" ph="{...}" />
-              <marker date="1508749363128" expanded="false" signature="6987:7009" ph=" { " />
-              <marker date="1508749363128" expanded="false" signature="7070:7088" ph=" }" />
-              <marker date="1508749363128" expanded="true" signature="7148:7562" ph="{...}" />
-              <marker date="1508749363128" expanded="true" signature="7222:7343" ph="{...}" />
-              <marker date="1508749363128" expanded="true" signature="7398:7548" ph="{...}" />
-              <marker date="1508749363128" expanded="true" signature="8484:9223" ph="{...}" />
-              <marker date="1508749363128" expanded="true" signature="9469:10622" ph="{...}" />
-              <marker date="1508749363128" expanded="true" signature="10853:12428" ph="{...}" />
-              <marker date="1508749363128" expanded="true" signature="12989:13068" ph="{...}" />
-              <marker date="1508749363128" expanded="true" signature="13127:13154" ph="{...}" />
-              <marker date="1508749363128" expanded="true" signature="13303:13821" ph="{...}" />
-              <marker date="1508749363128" expanded="true" signature="13982:14440" ph="{...}" />
-              <marker date="1508749363128" expanded="true" signature="14784:15017" ph="{...}" />
-              <marker date="1508749363128" expanded="true" signature="15067:15313" ph="{...}" />
-              <marker date="1508749363128" expanded="true" signature="15377:15532" ph="{...}" />
-              <marker date="1508749363128" expanded="true" signature="15596:15781" ph="{...}" />
-              <marker date="1508749363128" expanded="true" signature="15832:16185" ph="{...}" />
-              <marker date="1508749363128" expanded="false" signature="16501:16519" ph=" { " />
-              <marker date="1508749363128" expanded="false" signature="16541:16556" ph=" }" />
-              <marker date="1508749363128" expanded="true" signature="16588:16965" ph="{...}" />
-              <marker date="1508749363128" expanded="true" signature="16999:17670" ph="{...}" />
-              <marker date="1508749363128" expanded="true" signature="17721:17841" ph="{...}" />
-              <marker date="1508749363128" expanded="true" signature="23020:24061" ph="{...}" />
-              <marker date="1508749363128" expanded="true" signature="25380:25495" ph="{...}" />
-              <marker date="1508749363128" expanded="true" signature="25544:25623" ph="{...}" />
-              <marker date="1508749363128" expanded="false" signature="25682:25700" ph=" { " />
-              <marker date="1508749363128" expanded="false" signature="25724:25738" ph=" }" />
-              <marker date="1508749363128" expanded="true" signature="25794:26062" ph="{...}" />
-              <marker date="1508749363128" expanded="true" signature="26130:26780" ph="{...}" />
-              <marker date="1508749363128" expanded="true" signature="27283:27375" ph="{...}" />
-              <marker date="1508749363128" expanded="false" signature="27474:27496" ph=" { " />
-              <marker date="1508749363128" expanded="false" signature="27503:27517" ph=" }" />
-              <marker date="1508749363128" expanded="true" signature="27568:28048" ph="{...}" />
-              <marker date="1508749363128" expanded="true" signature="28273:28591" ph="{...}" />
-              <marker date="1508749363128" expanded="true" signature="28649:28831" ph="{...}" />
-              <marker date="1508749363128" expanded="true" signature="28884:29159" ph="{...}" />
-              <marker date="1508749363128" expanded="true" signature="29210:30130" ph="{...}" />
-              <marker date="1508749363128" expanded="true" signature="29330:29430" ph="{...}" />
-              <marker date="1508749363128" expanded="true" signature="29395:29414" ph="{...}" />
-              <marker date="1508749363128" expanded="true" signature="29487:29594" ph="{...}" />
-              <marker date="1508749363128" expanded="true" signature="29552:29578" ph="{...}" />
-              <marker date="1508749363128" expanded="true" signature="29653:29755" ph="{...}" />
-              <marker date="1508749363128" expanded="true" signature="29718:29739" ph="{...}" />
-            </folding>
           </first_editor>
           <second_editor />
         </state>
@@ -1106,7 +1013,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1114,7 +1020,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1122,18 +1027,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Examination/Papers/Model/Codes/DemoC3A.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="10" column="12" lean-forward="true" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
-          <folding>
-            <element signature="e#251#252#0" expanded="true" />
-            <element signature="e#296#297#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="170">
+          <caret line="10" column="12" lean-forward="false" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
         </state>
       </provider>
     </entry>
@@ -1141,14 +1041,63 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Examination/Papers/Model/Codes/DemoB3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="22" column="28" lean-forward="true" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
+        <state relative-caret-position="374">
+          <caret line="23" column="17" lean-forward="false" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms/Analysis/BubleSortTest.java" />
+    <entry file="file://$PROJECT_DIR$/Algorithms/Utility/PrintArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms/Analysis/BubleSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="799">
+          <caret line="47" column="46" lean-forward="false" selection-start-line="47" selection-start-column="46" selection-end-line="47" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms/Analysis/InsertionSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="45" lean-forward="true" selection-start-line="24" selection-start-column="45" selection-end-line="24" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms/Analysis/MergeSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="553">
+          <caret line="52" column="5" lean-forward="true" selection-start-line="52" selection-start-column="5" selection-end-line="52" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms/Analysis/QuickSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="32" column="30" lean-forward="true" selection-start-line="32" selection-start-column="30" selection-end-line="32" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms/Analysis/SelectionSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="41" lean-forward="false" selection-start-line="20" selection-start-column="41" selection-end-line="20" selection-end-column="41" />
           <folding />
         </state>
       </provider>
