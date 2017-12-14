@@ -5,7 +5,7 @@ import Utility.PrintArray;
 import java.util.stream.IntStream;
 
 public class BubleSort {
-    public static int[] intSort(int[] arr){
+    public static void intSort(int[] arr){
         for(int i = 0; i < arr.length; i++){
             for(int j = 0; j < arr.length - i - 1; j++){
                 if(arr[j] > arr[j+1]){
@@ -15,7 +15,6 @@ public class BubleSort {
                 }
             }
         }
-        return arr;
     }
     /*
     * 1) Stream
@@ -42,9 +41,9 @@ public class BubleSort {
 
     public static void main(String[] args) {
         int arr[] = new int[]{5, 8 , 62 , 22, 963, 1, 156};
-        int a[] = intSort(arr);
+        intSort(arr);
         int b[] = intSortJava8(arr);
-        PrintArray.printArray("Array A: ", a);
+        PrintArray.printArray("Array A: ", arr);
         PrintArray.printArray("Array B: ", b);
     }
 }
