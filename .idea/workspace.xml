@@ -2,203 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="03b1c72a-a071-4c26-896f-587f9e75922d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_6_0_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Database/MySQLConnectivity/MySQLDBConnector.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Database/MySQLConnectivity/TestingConnection.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/Analysis/BubleSort.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/Analysis/BucketSort.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/Analysis/InsertionSort.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/Analysis/MergeSort.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/Analysis/QuickSort.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/Analysis/SelectionSort.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/Builder/Student$StudentBuilder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/Builder/Student.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/Builder/StudentBuilderDemo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/ConstructorStrudent.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/FunctionsExample.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/InternalExamination/AbstractionInterface/Abstraction/Cars.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/InternalExamination/AbstractionInterface/Abstraction/Lexus.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/InternalExamination/AbstractionInterface/Interface/Airplanes.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/InternalExamination/AbstractionInterface/Interface/Boeing.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/InternalExamination/AbstractionInterface/Interface/SecureAirbus.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/InternalExamination/AbstractionInterface/Transportation.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/InternalExamination/ThrowableClass/Assertions/AssertionError.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/InternalExamination/ThrowableClass/CompileTimeExceptionDemo/Catches.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/InternalExamination/ThrowableClass/RuntimeExceptionDemo/ArithmeticDemo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/InternalExamination/ThrowableClass/RuntimeExceptionDemo/MultipleCatch.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/InternalExamination/ThrowableClass/ThrowingExceptions/ThrowDemo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/InternalExamination/ThrowableClass/User_Defined_Exception/Election.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/InternalExamination/ThrowableClass/User_Defined_Exception/InvalidAgeException.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/InternalExamination/thread/CrazyGame$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/InternalExamination/thread/CrazyGame$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/InternalExamination/thread/CrazyGame$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/InternalExamination/thread/CrazyGame.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/InternalExamination/thread/InterferenceMemInconsistency$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/InternalExamination/thread/InterferenceMemInconsistency$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/InternalExamination/thread/InterferenceMemInconsistency.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/InternalExamination/thread/Liveness/Deadlock/BankAccount$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/InternalExamination/thread/Liveness/Deadlock/BankAccount$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/InternalExamination/thread/Liveness/Deadlock/BankAccount.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/InternalExamination/thread/Liveness/Deadlock/DeadlockDemo$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/InternalExamination/thread/Liveness/Deadlock/DeadlockDemo$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/InternalExamination/thread/Liveness/Deadlock/DeadlockDemo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/InternalExamination/thread/Liveness/Deadlock/Greeting$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/InternalExamination/thread/Liveness/Deadlock/Greeting$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/InternalExamination/thread/Liveness/Deadlock/Greeting$Friend.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/InternalExamination/thread/Liveness/Deadlock/Greeting.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/InternalExamination/thread/MonitorLock$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/InternalExamination/thread/MonitorLock$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/InternalExamination/thread/MonitorLock.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/InternalExamination/thread/SynchronizeMethods$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/InternalExamination/thread/SynchronizeMethods$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/InternalExamination/thread/SynchronizeMethods.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/InternalExamination/thread/demo$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/InternalExamination/thread/demo$RunnableInterface.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/InternalExamination/thread/demo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/MAP/HashMapDemo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/ModelExamination/BasicsReview.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/ModelExamination/CollectionsDemo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/ModelExamination/Compare.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/ModelExamination/DerivedClass.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/ModelExamination/FileDemo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/Papers/Model/Codes/DemoB2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/Papers/Model/Codes/DemoB3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/Papers/Model/Codes/DemoB4/Boeing.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/Papers/Model/Codes/DemoB4/Lexus.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/Papers/Model/Codes/DemoB4/MyAirplanes.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/Papers/Model/Codes/DemoB4/MyCars.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/Papers/Model/Codes/DemoB5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/Papers/Model/Codes/DemoC1A.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/Papers/Model/Codes/DemoC1B.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/Papers/Model/Codes/DemoC2A/KITStudentDeSerialize.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/Papers/Model/Codes/DemoC2A/KITStudents.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/Papers/Model/Codes/DemoC2A/Student.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/Papers/Model/Codes/DemoC2B.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/Papers/Model/Codes/DemoC3A.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/Papers/Model/Codes/DemoC4A1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/Papers/Model/Codes/DemoC4B1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/Papers/Model/Codes/DemoC4B2$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/Papers/Model/Codes/DemoC4B2$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/Papers/Model/Codes/DemoC4B2$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/Papers/Model/Codes/DemoC4B2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/Papers/Model/Codes/StudentObj.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/Papers/Model/Codes/fileOperationDemo.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/Papers/Model/Codes/mytitle.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/Papers/Model/Examination.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/Serialization/Fruit.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/Serialization/PreserveWriteObj.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/Serialization/ReadPreserveObj.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/TernaryOperator.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/Utility/MaxMin.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/Utility/PrintArray.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/array/BinarySearch.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/array/BubleSort.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/array/Combination.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/array/CountTwo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/array/Intro.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/array/LinearSearch.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/array/TwoDArraySum.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/array/UserNamePassword.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/array/listofArray.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/constantExample.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/controlStructure/Compare3var.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/controlStructure/Compare4var.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/controlStructure/ElectricityBill.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/controlStructure/EvenIn25per.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/controlStructure/EvenOdd.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/controlStructure/Grading.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/controlStructure/IfAndElseExample.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/controlStructure/NestedForLoop.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/controlStructure/PrintingRemainingChar.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/controlStructure/Reverse.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/controlStructure/ReverseWithNestedFor.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/controlStructure/Shape.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/controlStructure/SmallerCode.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/controlStructure/StudentGrading.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/controlStructure/Sum25perOdd.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/controlStructure/SumDigit.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/controlStructure/SumEvenOdd.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/controlStructure/SumFirstFive.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/controlStructure/WhileLoop.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/controlStructure/forloop.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/exception/Dummy.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/exception/NullPointException.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/exception/RuntimeException.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/exception/ThrowsException.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/exception/TryCatchFinally.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/fileOperation/FIleStorage/ListOfFiles/Hello.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/fileOperation/FIleStorage/ListOfFiles/JavaScript.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/fileOperation/FIleStorage/ListOfFiles/package.yaml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/fileOperation/FIleStorage/ObjPreserve.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/fileOperation/FIleStorage/file.docx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/fileOperation/FIleStorage/fileDemo.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/fileOperation/Input/BufferedInputStreamDemo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/fileOperation/Input/DataInputStreamDemo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/fileOperation/Input/DeletingFilesOperation.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/fileOperation/Input/EndlessDirs.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/fileOperation/Input/FileDemo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/fileOperation/Input/FileInputStreamDemoRead.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/fileOperation/Input/FileInputStreamDemoReadByte.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/fileOperation/Input/ListingFiles.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/fileOperation/Output/BufferOutputStreamDemo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/fileOperation/Output/DataOutputStreamDemo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/fileOperation/Output/FIleOutputStreamDemo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/fileOperation/ReadAndWrite.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/fileOperation/ReaderWriterClassDemo/BufferFileWriter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/fileOperation/ReaderWriterClassDemo/BufferReaderDemo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/fileOperation/ReaderWriterClassDemo/FileReaderDemo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/fileOperation/ReaderWriterClassDemo/WriterDemo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/inheritance/BaseClass.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/inheritance/Child.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/kit/keen/chhatra/Algorithms/rsa.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/list/ArrayListDemo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/list/LinkedListDemo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/mainPackage/BaseClass.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/mainPackage/ChildSamePackage.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/mainPackage/FinalBaseClass.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/multiThreads/AnotherClassRunnable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/multiThreads/ExampleExtendThread.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/multiThreads/ExampleThreadRunnable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/multiThreads/JoinandWait$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/multiThreads/JoinandWait$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/multiThreads/JoinandWait.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/multiThreads/RunnableClass$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/multiThreads/RunnableClass.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/multiThreads/ThreadCreation.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/multiThreads/Threads.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/presentation/ExtendingThreadClass.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/presentation/ImplementingRunInterface.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/presentation/UsingAnonymousObject$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/presentation/UsingAnonymousObject.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/secondPackage/ChildOutsidePackage.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/set/SetExample.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/sorting/CompareObjectInUserDefineDT.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/sorting/NaturalOrdering.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/sorting/SortingUsingExistingDT.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/sorting/Students.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/synch/MultiLock.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/synch/ThreadSyncClass$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/synch/ThreadSyncClass.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/thisSuperKeyword/ClassA.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/thisSuperKeyword/SuperKeyword.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/useConstant.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/userDefinedConstant.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/variableClass.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/working/ClassToJoin.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/working/Priority$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/working/Priority$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/working/Priority.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/working/VolatileUsage.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/working/WaitAndNotify$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/working/WaitAndNotify$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/working/WaitAndNotify.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/MySQLConnectivity/MySQLDBConnector.class" afterPath="$PROJECT_DIR$/target/classes/MySQLConnectivity/MySQLDBConnector.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/MySQLConnectivity/TestingConnection.class" afterPath="$PROJECT_DIR$/target/classes/MySQLConnectivity/TestingConnection.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dictionaries/chhat.xml" afterPath="$PROJECT_DIR$/.idea/dictionaries/chhat.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JavaIntroduction.iml" afterPath="$PROJECT_DIR$/JavaIntroduction.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Database/MySQLConnectivity/MySQLDBConnector.java" afterPath="$PROJECT_DIR$/Database/MySQLConnectivity/MySQLDBConnector.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Database/MySQLConnectivity/TestingConnection.java" afterPath="$PROJECT_DIR$/Database/MySQLConnectivity/TestingConnection.java" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -217,51 +26,25 @@
     <option name="SHOW_TABLE_DETAILS" value="true" />
     <option name="SHOW_EMPTY_GROUPS" value="false" />
     <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
-    <expand />
+    <expand>
+      <path>
+        <item name="" type="eadb38e5:DatabaseStructure$Root" />
+        <item name="banking_system@localhost" type="e3449647:DbNodeDescriptor" />
+      </path>
+    </expand>
     <select />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="BubleSort.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Algorithms/Analysis/BubleSort.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="163">
-              <caret line="30" column="27" lean-forward="false" selection-start-line="30" selection-start-column="27" selection-end-line="30" selection-end-column="27" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="16" column="40" lean-forward="false" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="40" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MySQLDBConnector.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Database/MySQLConnectivity/MySQLDBConnector.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" column="9" lean-forward="true" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="TestingConnection.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Database/MySQLConnectivity/TestingConnection.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="22" column="48" lean-forward="false" selection-start-line="22" selection-start-column="48" selection-end-line="22" selection-end-column="48" />
+            <state relative-caret-position="102">
+              <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <marker date="1514340257220" expanded="true" signature="592:657" ph="select * fro... account" />
+                <marker date="1515038268859" expanded="true" signature="636:701" ph="SELECT * FRO... account" />
+                <marker date="1515038268859" expanded="true" signature="642:701" ph="select * fro... account" />
               </folding>
             </state>
           </provider>
@@ -293,7 +76,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/BasicConcepts/Serialization/ReadPreserveObj.java" />
         <option value="$PROJECT_DIR$/Examination/Papers/Model/Codes/DemoC2A/Student.java" />
         <option value="$PROJECT_DIR$/Examination/Papers/Model/Codes/DemoC2A/KITStudents.java" />
         <option value="$PROJECT_DIR$/Examination/Papers/Model/Codes/DemoC2A/KITStudentDeSerialize.java" />
@@ -340,9 +122,10 @@
         <option value="$PROJECT_DIR$/Algorithms/Analysis/BubleSort.java" />
         <option value="$PROJECT_DIR$/Algorithms/Analysis/MergeSort.java" />
         <option value="$PROJECT_DIR$/Algorithms/Analysis/BucketSort.java" />
-        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/0c4f8302-4855-4add-9c7a-80ad1bc9b7c1/console.sql" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/0c4f8302-4855-4add-9c7a-80ad1bc9b7c1/console.sql" />
         <option value="$PROJECT_DIR$/Database/MySQLConnectivity/MySQLDBConnector.java" />
+        <option value="$PROJECT_DIR$/Examination/InternalExamination/AbstractionInterface/Interface/SecureAirbus.java" />
         <option value="$PROJECT_DIR$/Database/MySQLConnectivity/TestingConnection.java" />
       </list>
     </option>
@@ -391,6 +174,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -398,24 +183,11 @@
               <item name="JavaIntroduction" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaIntroduction" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="JavaIntroduction" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaIntroduction" type="462c0819:PsiDirectoryNode" />
-              <item name="Database" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaIntroduction" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaIntroduction" type="462c0819:PsiDirectoryNode" />
-              <item name="Database" type="462c0819:PsiDirectoryNode" />
-              <item name="MySQLConnectivity" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="AndroidView" />
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -437,6 +209,9 @@
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
       <recent name="Analysis" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Shared\JAVAPROJECT\JavaIntroduction\Database" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="org.jboss.arquillian.testng.Arquillian" />
@@ -696,7 +471,13 @@
       <workItem from="1513128547573" duration="1266000" />
       <workItem from="1513261008264" duration="4932000" />
       <workItem from="1513906013713" duration="1835000" />
-      <workItem from="1514337675342" duration="2560000" />
+      <workItem from="1514337675342" duration="3538000" />
+      <workItem from="1514429490237" duration="5965000" />
+      <workItem from="1514506655821" duration="1038000" />
+      <workItem from="1514695514721" duration="1210000" />
+      <workItem from="1514996401124" duration="152000" />
+      <workItem from="1515038180961" duration="2976000" />
+      <workItem from="1515073867587" duration="154000" />
     </task>
     <task id="LOCAL-00001" summary="FileOperation">
       <created>1500866140469</created>
@@ -849,7 +630,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="143599000" />
+    <option name="totallyTimeSpent" value="156072000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
@@ -857,31 +638,31 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37055016" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32917318" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3381877" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32917318" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3381877" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32847896" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32847896" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18305598" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2655068" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40405616" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37055016" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32847896" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6569579" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -935,48 +716,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Examination/InternalExamination/AbstractionInterface/Abstraction/Lexus.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="21" column="25" lean-forward="true" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Examination/InternalExamination/AbstractionInterface/Interface/Airplanes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Examination/InternalExamination/AbstractionInterface/Interface/Boeing.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-104">
-          <caret line="3" column="40" lean-forward="false" selection-start-line="3" selection-start-column="40" selection-end-line="3" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Examination/InternalExamination/AbstractionInterface/Interface/SecureAirbus.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="372">
-          <caret line="49" column="9" lean-forward="false" selection-start-line="49" selection-start-column="9" selection-end-line="49" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Examination/InternalExamination/AbstractionInterface/Transportation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-189">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Examination/InternalExamination/thread/Liveness/Deadlock/BankAccount.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Examination/InternalExamination/thread/Liveness/Deadlock/DeadlockDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -1226,21 +965,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithms/Analysis/BucketSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="34" column="96" lean-forward="false" selection-start-line="34" selection-start-column="96" selection-end-line="34" selection-end-column="96" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Algorithms/Utility/MaxMin.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
           <caret line="26" column="5" lean-forward="false" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1248,7 +976,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1256,51 +983,97 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
           <caret line="24" column="47" lean-forward="false" selection-start-line="24" selection-start-column="47" selection-end-line="24" selection-end-column="47" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/0c4f8302-4855-4add-9c7a-80ad1bc9b7c1/console.sql">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="22" lean-forward="true" selection-start-line="0" selection-start-column="22" selection-end-line="0" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Database/MySQLConnectivity/MySQLDBConnector.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="9" lean-forward="true" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <caret line="0" column="28" lean-forward="false" selection-start-line="0" selection-start-column="28" selection-end-line="0" selection-end-column="28" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
+        <state relative-caret-position="272">
           <caret line="16" column="40" lean-forward="false" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="40" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Database/MySQLConnectivity/MySQLDBConnector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="13" lean-forward="true" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Algorithms/Analysis/BubleSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="163">
+        <state relative-caret-position="476">
           <caret line="30" column="27" lean-forward="false" selection-start-line="30" selection-start-column="27" selection-end-line="30" selection-end-column="27" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms/Analysis/BucketSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="34" column="96" lean-forward="false" selection-start-line="34" selection-start-column="96" selection-end-line="34" selection-end-column="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Examination/InternalExamination/AbstractionInterface/Abstraction/Lexus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="21" column="25" lean-forward="true" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Examination/InternalExamination/AbstractionInterface/Abstraction/Cars.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="22" lean-forward="false" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Examination/InternalExamination/AbstractionInterface/Interface/Airplanes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Examination/InternalExamination/AbstractionInterface/Interface/Boeing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="366">
+          <caret line="42" column="30" lean-forward="true" selection-start-line="42" selection-start-column="30" selection-end-line="42" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Examination/InternalExamination/AbstractionInterface/Interface/SecureAirbus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="39" column="12" lean-forward="true" selection-start-line="39" selection-start-column="12" selection-end-line="39" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Database/JDBCTutorial/sql/javadb/create-procedure-show-suppliers.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Database/MySQLConnectivity/TestingConnection.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="22" column="48" lean-forward="false" selection-start-line="22" selection-start-column="48" selection-end-line="22" selection-end-column="48" />
+        <state relative-caret-position="102">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <marker date="1514340257220" expanded="true" signature="592:657" ph="select * fro... account" />
+            <marker date="1515038268859" expanded="true" signature="636:701" ph="SELECT * FRO... account" />
+            <marker date="1515038268859" expanded="true" signature="642:701" ph="select * fro... account" />
           </folding>
         </state>
       </provider>

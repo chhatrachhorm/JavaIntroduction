@@ -19,6 +19,11 @@ public class MySQLDBConnector {
             * */
         Connection dbConnection = null;
         try {
+            /*
+            * Class.forName("com.mysql.jdbc.Driver");
+            * -- Not Needed Anymore
+            * -- Current Used Class: com.mysql.cj.jdbc.Driver
+            * */
             dbConnection = DriverManager.getConnection(dbURL, username, password);
         } catch (SQLException e) {
             e.printStackTrace();
