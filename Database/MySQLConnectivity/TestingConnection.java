@@ -1,9 +1,9 @@
 package MySQLConnectivity;
 
 import java.sql.Connection;
-import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
+import java.util.Scanner;
 
 public class TestingConnection {
     public static void main(String[] args) {
@@ -14,15 +14,9 @@ public class TestingConnection {
         try {
             if(connection != null) {
                 Statement statement = connection.createStatement();
-                ResultSet set = statement.executeQuery("SELECT * FROM account WHERE branch_name = 'OnEnterprise Branch 1';");
-                int index = 0;
-                while (set.next()){
-                    String builder = String.valueOf(index) + ". " + set.getString(1) + " " +
-                            set.getString(2) + " " +
-                            set.getLong(3) + "\n";
-                    System.out.println(builder);
-                    index++;
-                }
+                Account.inputAccount(statement);
+                Account.getAccountInfo(statement);
+                Account.transferMoney(connection, "1234", "1235", 1000);
                 connection.close();
             }else {
                 assert false: "Connection did not made properly";
