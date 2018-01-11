@@ -1,4 +1,4 @@
-# KIT Core Java Model Examination
+# Core Java Model Examination
 #### Part A
 1. Responsibilities of JVM are to load the bytecode file, verify that file and to execute it.
 2. Difference between String and StringBuffer
