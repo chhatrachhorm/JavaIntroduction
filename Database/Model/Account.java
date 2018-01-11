@@ -1,8 +1,8 @@
-package MySQLConnectivity;
+package Model;
 
-import com.sun.org.apache.xml.internal.resolver.readers.ExtendedXMLCatalogReader;
 
 import java.sql.*;
+import java.util.List;
 import java.util.Scanner;
 
 public class Account {
@@ -38,7 +38,7 @@ public class Account {
         this.balance = balance;
     }
 
-    static void getAccountInfo(Statement statement) throws SQLException{
+    public static void getAccountInfo(Statement statement) throws SQLException{
         ResultSet set = statement.executeQuery("SELECT * FROM account;");
         int index = 0;
         while (set.next()){
@@ -49,7 +49,7 @@ public class Account {
             index++;
         }
     }
-    static void inputAccount(Statement statement) throws SQLException {
+    public static void inputAccount(Statement statement) throws SQLException {
         try(Scanner scanner = new Scanner(System.in)){
             System.out.println("Enter 0 or 1: ");
             int option = scanner.nextInt();
@@ -70,7 +70,7 @@ public class Account {
         String query = "INSERT INTO account VALUE ('" + account.getAccountNum() + "', '" + account.getBranchName() + "', " + account.getBalance() + ");";
         statement.execute(query);
     }
-    static void transferMoney(Connection connection, String debitID, String creditID, long amount){
+    public static void transferMoney(Connection connection, String debitID, String creditID, long amount){
         PreparedStatement updateDebit = null;
         PreparedStatement updateCredit = null;
         String updateAmountDebit = "UPDATE account SET balance = balance - ? WHERE account_number = ?";
@@ -112,6 +112,13 @@ public class Account {
 
     }
 
+    public static void batchUpdate(Statement statement, List<String> queryList) throws SQLException {
+        if(queryList != null && !queryList.isEmpty()){
+            for(String q:queryList)
+                statement.addBatch(q);
+            statement.executeBatch();
+        }
+    }
     @Override
     public String toString() {
         return "Account: " + accountNum + ", " + branchName + " " + balance;
