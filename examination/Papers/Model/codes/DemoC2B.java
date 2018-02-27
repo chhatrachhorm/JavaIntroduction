@@ -3,7 +3,7 @@ package Papers.Model.codes;
 import java.io.*;
 
 public class DemoC2B {
-        private File f = new File("Examination/Papers/Model/codes/fileOperationDemo.html");
+        private File f = new File("Examination/Papers/model/codes/fileOperationDemo.html");
         public void iFIS() throws IOException {
             FileInputStream fis = new FileInputStream(f);
             byte b[] = new byte[1024];

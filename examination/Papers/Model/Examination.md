@@ -1,4 +1,4 @@
-# Core Java Model Examination
+# Core Java model Examination
 #### Part A
 1. Responsibilities of JVM are to load the bytecode file, verify that file and to execute it.
 2. Difference between String and StringBuffer
@@ -300,8 +300,8 @@
             public static void main(String args[]){
                 Student s = new Student(1, "Chhatra Chhorm");
                 try{
-                    BufferedOutputStream bos = new BufferedOutputStream(new FileOutputStream("Examination/Papers/Model/Codes/StudentObj.bin"));
-                    ObjectOutputStream oos = new ObjectOutputStream(bos);
+                    BufferedOutputStream bos = new BufferedOutputStream(new FileOutputStream(model));
+           model    ObjectOutputStream oos = new ObjectOutputStream(bos);
                     oos.writeObject(s);
                     oos.close();
                     bos.close();
@@ -329,9 +329,9 @@
     * FileOperation : A project to perform FileInputStream, BufferedInputStream, FileOutputStream, BufferedOutputStream
         ```java
         public class FileOperationDemo{
-            private File f = new File("Examination/Papers/Model/Codes/fileOperationDemo.html");
+            private File f = new File(model);
             public void iFIS() throws IOException{
-                    FileInputStream fis = new FileInputStream(f);
+   model            FileInputStream fis = new FileInputStream(f);
                     byte b[] = new byte[1024];
                     fis.read(b);
                     System.out.println("FIS: " + new String(b).trim());

@@ -7,7 +7,7 @@ import java.io.IOException;
 public class DemoB3 {
     public static void main(String args[]){
         try{
-            FileInputStream fis = new FileInputStream("Examination/Papers/Model/codes/mytitle.txt");
+            FileInputStream fis = new FileInputStream("Examination/Papers/model/codes/mytitle.txt");
             byte b[] = new byte[1024];
             int total = 0;
             fis.read(b);

@@ -8,7 +8,7 @@ public class KITStudents {
     public static void main(String args[]){
         Student s = new Student(1, "Chhatra Chhorm");
         try{
-            BufferedOutputStream bos = new BufferedOutputStream(new FileOutputStream("Examination/Papers/Model/Codes/StudentObj.bin"));
+            BufferedOutputStream bos = new BufferedOutputStream(new FileOutputStream("Examination/Papers/model/Codes/StudentObj.bin"));
             ObjectOutputStream oos = new ObjectOutputStream(bos);
             oos.writeObject(s);
             oos.close();

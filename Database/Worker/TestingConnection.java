@@ -1,7 +1,7 @@
-package Worker;
+package worker;
 
-import Model.Account;
-import MySQLConnectivity.MySQLDBConnector;
+import model.Account;
+import mySQLConnectivity.MySQLDBConnector;
 
 import java.sql.Connection;
 import java.sql.SQLException;
