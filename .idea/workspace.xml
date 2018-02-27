@@ -2,172 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="03b1c72a-a071-4c26-896f-587f9e75922d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/designPattern/signleton/KIT.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/designPattern/signleton/KITInfo.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Examination/Papers/Model/Codes/DemoB2.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Examination/Papers/Model/Codes/DemoB3.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Examination/Papers/Model/Codes/DemoB5.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Examination/Papers/Model/Codes/DemoC1A.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Examination/Papers/Model/Codes/DemoC1B.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Examination/Papers/Model/Codes/DemoC2A/KITStudentDeSerialize.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Examination/Papers/Model/Codes/DemoC2B.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Examination/Papers/Model/Codes/DemoC3A.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Examination/Papers/Model/Codes/DemoC4A1.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Examination/Papers/Model/Codes/DemoC4B1.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Examination/Papers/Model/Codes/DemoC4B2.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Examination/Papers/Model/Codes/StudentObj.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Examination/Papers/Model/Codes/fileOperationDemo.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Examination/Papers/Model/Codes/mytitle.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Examination/Papers/Model/Examination.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/examination/InternalExamination/AbstractionInterface/Interface/Airplanes.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/examination/InternalExamination/AbstractionInterface/Interface/SecureAirbus.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/examination/InternalExamination/ThrowableClass/User_Defined_Exception/Election.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/examination/internalExamination/AbstractionInterface/Interface/Boeing.java" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/Analysis/BubleSort.class" afterPath="$PROJECT_DIR$/target/classes/Analysis/BubleSort.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/MySQLConnectivity/Account.class" afterPath="$PROJECT_DIR$/target/classes/MySQLConnectivity/Account.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/MySQLConnectivity/TestingConnection.class" afterPath="$PROJECT_DIR$/target/classes/MySQLConnectivity/TestingConnection.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Threads/multiThreads/ExampleExtendThread.java" afterPath="$PROJECT_DIR$/Threads/multiThreads/ExampleExtendThread.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Algorithms/Analysis/BubleSort.java" afterPath="$PROJECT_DIR$/algorithms/analysis/BubleSort.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Algorithms/Analysis/BucketSort.java" afterPath="$PROJECT_DIR$/algorithms/analysis/BucketSort.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Algorithms/Analysis/InsertionSort.java" afterPath="$PROJECT_DIR$/algorithms/analysis/InsertionSort.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Algorithms/Analysis/MergeSort.java" afterPath="$PROJECT_DIR$/algorithms/analysis/MergeSort.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Algorithms/Analysis/QuickSort.java" afterPath="$PROJECT_DIR$/algorithms/analysis/QuickSort.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Algorithms/Analysis/SelectionSort.java" afterPath="$PROJECT_DIR$/algorithms/analysis/SelectionSort.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Algorithms/Utility/MaxMin.java" afterPath="$PROJECT_DIR$/algorithms/utility/MaxMin.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Algorithms/Utility/PrintArray.java" afterPath="$PROJECT_DIR$/algorithms/utility/PrintArray.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Algorithms/rsa.java" afterPath="$PROJECT_DIR$/algorithms/rsa.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BasicConcepts/ConstructorStrudent.java" afterPath="$PROJECT_DIR$/basicConcepts/ConstructorStrudent.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BasicConcepts/FunctionsExample.java" afterPath="$PROJECT_DIR$/basicConcepts/FunctionsExample.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BasicConcepts/Serialization/Fruit.java" afterPath="$PROJECT_DIR$/basicConcepts/serialization/Fruit.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BasicConcepts/Serialization/PreserveWriteObj.java" afterPath="$PROJECT_DIR$/basicConcepts/serialization/PreserveWriteObj.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BasicConcepts/Serialization/ReadPreserveObj.java" afterPath="$PROJECT_DIR$/basicConcepts/serialization/ReadPreserveObj.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BasicConcepts/TernaryOperator.java" afterPath="$PROJECT_DIR$/basicConcepts/TernaryOperator.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BasicConcepts/array/BinarySearch.java" afterPath="$PROJECT_DIR$/basicConcepts/array/BinarySearch.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BasicConcepts/array/BubleSort.java" afterPath="$PROJECT_DIR$/basicConcepts/array/BubleSort.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BasicConcepts/array/Combination.java" afterPath="$PROJECT_DIR$/basicConcepts/array/Combination.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BasicConcepts/array/CountTwo.java" afterPath="$PROJECT_DIR$/basicConcepts/array/CountTwo.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BasicConcepts/array/Intro.java" afterPath="$PROJECT_DIR$/basicConcepts/array/Intro.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BasicConcepts/array/LinearSearch.java" afterPath="$PROJECT_DIR$/basicConcepts/array/LinearSearch.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BasicConcepts/array/TwoDArraySum.java" afterPath="$PROJECT_DIR$/basicConcepts/array/TwoDArraySum.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BasicConcepts/array/UserNamePassword.java" afterPath="$PROJECT_DIR$/basicConcepts/array/UserNamePassword.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BasicConcepts/array/listOfArray.java" afterPath="$PROJECT_DIR$/basicConcepts/array/listOfArray.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BasicConcepts/constantExample.java" afterPath="$PROJECT_DIR$/basicConcepts/constantExample.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BasicConcepts/controlStructure/Compare3var.java" afterPath="$PROJECT_DIR$/basicConcepts/controlStructure/Compare3var.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BasicConcepts/controlStructure/Compare4var.java" afterPath="$PROJECT_DIR$/basicConcepts/controlStructure/Compare4var.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BasicConcepts/controlStructure/ElectricityBill.java" afterPath="$PROJECT_DIR$/basicConcepts/controlStructure/ElectricityBill.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BasicConcepts/controlStructure/EvenIn25per.java" afterPath="$PROJECT_DIR$/basicConcepts/controlStructure/EvenIn25per.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BasicConcepts/controlStructure/EvenOdd.java" afterPath="$PROJECT_DIR$/basicConcepts/controlStructure/EvenOdd.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BasicConcepts/controlStructure/Grading.java" afterPath="$PROJECT_DIR$/basicConcepts/controlStructure/Grading.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BasicConcepts/controlStructure/IfAndElseExample.java" afterPath="$PROJECT_DIR$/basicConcepts/controlStructure/IfAndElseExample.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BasicConcepts/controlStructure/NestedForLoop.java" afterPath="$PROJECT_DIR$/basicConcepts/controlStructure/NestedForLoop.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BasicConcepts/controlStructure/PrintingRemainingChar.java" afterPath="$PROJECT_DIR$/basicConcepts/controlStructure/PrintingRemainingChar.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BasicConcepts/controlStructure/Reverse.java" afterPath="$PROJECT_DIR$/basicConcepts/controlStructure/Reverse.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BasicConcepts/controlStructure/ReverseWithNestedFor.java" afterPath="$PROJECT_DIR$/basicConcepts/controlStructure/ReverseWithNestedFor.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BasicConcepts/controlStructure/Shape.java" afterPath="$PROJECT_DIR$/basicConcepts/controlStructure/Shape.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BasicConcepts/controlStructure/SmallerCode.java" afterPath="$PROJECT_DIR$/basicConcepts/controlStructure/SmallerCode.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BasicConcepts/controlStructure/StudentGrading.java" afterPath="$PROJECT_DIR$/basicConcepts/controlStructure/StudentGrading.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BasicConcepts/controlStructure/Sum25perOdd.java" afterPath="$PROJECT_DIR$/basicConcepts/controlStructure/Sum25perOdd.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BasicConcepts/controlStructure/SumDigit.java" afterPath="$PROJECT_DIR$/basicConcepts/controlStructure/SumDigit.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BasicConcepts/controlStructure/SumEvenOdd.java" afterPath="$PROJECT_DIR$/basicConcepts/controlStructure/SumEvenOdd.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BasicConcepts/controlStructure/SumFirstFive.java" afterPath="$PROJECT_DIR$/basicConcepts/controlStructure/SumFirstFive.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BasicConcepts/controlStructure/WhileLoop.java" afterPath="$PROJECT_DIR$/basicConcepts/controlStructure/WhileLoop.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BasicConcepts/controlStructure/forloop.java" afterPath="$PROJECT_DIR$/basicConcepts/controlStructure/forloop.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BasicConcepts/fileOperation/FIleStorage/ListOfFiles/Hello.html" afterPath="$PROJECT_DIR$/basicConcepts/fileOperation/fIleStorage/listOfFiles/Hello.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BasicConcepts/fileOperation/FIleStorage/ListOfFiles/JavaScript.js" afterPath="$PROJECT_DIR$/basicConcepts/fileOperation/fIleStorage/listOfFiles/JavaScript.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BasicConcepts/fileOperation/FIleStorage/ListOfFiles/package-info.java" afterPath="$PROJECT_DIR$/basicConcepts/fileOperation/fIleStorage/listOfFiles/package-info.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BasicConcepts/fileOperation/FIleStorage/ListOfFiles/package.yaml" afterPath="$PROJECT_DIR$/basicConcepts/fileOperation/fIleStorage/listOfFiles/package.yaml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BasicConcepts/fileOperation/FIleStorage/ObjPreserve.bin" afterPath="$PROJECT_DIR$/basicConcepts/fileOperation/fIleStorage/ObjPreserve.bin" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BasicConcepts/fileOperation/FIleStorage/file.docx" afterPath="$PROJECT_DIR$/basicConcepts/fileOperation/fIleStorage/file.docx" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BasicConcepts/fileOperation/FIleStorage/fileDemo.txt" afterPath="$PROJECT_DIR$/basicConcepts/fileOperation/fIleStorage/fileDemo.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BasicConcepts/fileOperation/Input/BufferedInputStreamDemo.java" afterPath="$PROJECT_DIR$/basicConcepts/fileOperation/input/BufferedInputStreamDemo.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BasicConcepts/fileOperation/Input/DataInputStreamDemo.java" afterPath="$PROJECT_DIR$/basicConcepts/fileOperation/input/DataInputStreamDemo.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BasicConcepts/fileOperation/Input/DeletingFilesOperation.java" afterPath="$PROJECT_DIR$/basicConcepts/fileOperation/input/DeletingFilesOperation.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BasicConcepts/fileOperation/Input/EndlessDirs.java" afterPath="$PROJECT_DIR$/basicConcepts/fileOperation/input/EndlessDirs.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BasicConcepts/fileOperation/Input/FileDemo.java" afterPath="$PROJECT_DIR$/basicConcepts/fileOperation/input/FileDemo.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BasicConcepts/fileOperation/Input/FileInputStreamDemoRead.java" afterPath="$PROJECT_DIR$/basicConcepts/fileOperation/input/FileInputStreamDemoRead.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BasicConcepts/fileOperation/Input/FileInputStreamDemoReadByte.java" afterPath="$PROJECT_DIR$/basicConcepts/fileOperation/input/FileInputStreamDemoReadByte.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BasicConcepts/fileOperation/Input/ListingFiles.java" afterPath="$PROJECT_DIR$/basicConcepts/fileOperation/input/ListingFiles.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BasicConcepts/fileOperation/Output/BufferOutputStreamDemo.java" afterPath="$PROJECT_DIR$/basicConcepts/fileOperation/output/BufferOutputStreamDemo.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BasicConcepts/fileOperation/Output/DataOutputStreamDemo.java" afterPath="$PROJECT_DIR$/basicConcepts/fileOperation/output/DataOutputStreamDemo.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BasicConcepts/fileOperation/Output/FIleOutputStreamDemo.java" afterPath="$PROJECT_DIR$/basicConcepts/fileOperation/output/FIleOutputStreamDemo.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BasicConcepts/fileOperation/ReadAndWrite.java" afterPath="$PROJECT_DIR$/basicConcepts/fileOperation/ReadAndWrite.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BasicConcepts/fileOperation/ReaderWriterClassDemo/BufferFileWriter.java" afterPath="$PROJECT_DIR$/basicConcepts/fileOperation/readerWriterClassDemo/BufferFileWriter.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BasicConcepts/fileOperation/ReaderWriterClassDemo/BufferReaderDemo.java" afterPath="$PROJECT_DIR$/basicConcepts/fileOperation/readerWriterClassDemo/BufferReaderDemo.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BasicConcepts/fileOperation/ReaderWriterClassDemo/FileReaderDemo.java" afterPath="$PROJECT_DIR$/basicConcepts/fileOperation/readerWriterClassDemo/FileReaderDemo.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BasicConcepts/fileOperation/ReaderWriterClassDemo/WriterDemo.java" afterPath="$PROJECT_DIR$/basicConcepts/fileOperation/readerWriterClassDemo/WriterDemo.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BasicConcepts/inheritance/BaseClass.java" afterPath="$PROJECT_DIR$/basicConcepts/inheritance/BaseClass.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BasicConcepts/inheritance/Child.java" afterPath="$PROJECT_DIR$/basicConcepts/inheritance/Child.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BasicConcepts/inheritance/package-info.java" afterPath="$PROJECT_DIR$/basicConcepts/inheritance/package-info.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BasicConcepts/presentation/ExtendingThreadClass.java" afterPath="$PROJECT_DIR$/basicConcepts/presentation/ExtendingThreadClass.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BasicConcepts/presentation/ImplementingRunInterface.java" afterPath="$PROJECT_DIR$/basicConcepts/presentation/ImplementingRunInterface.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BasicConcepts/presentation/UsingAnonymousObject.java" afterPath="$PROJECT_DIR$/basicConcepts/presentation/UsingAnonymousObject.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BasicConcepts/presentation/package-info.java" afterPath="$PROJECT_DIR$/basicConcepts/presentation/package-info.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BasicConcepts/useConstant.java" afterPath="$PROJECT_DIR$/basicConcepts/useConstant.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BasicConcepts/userDefinedConstant.java" afterPath="$PROJECT_DIR$/basicConcepts/userDefinedConstant.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BasicConcepts/variableClass.java" afterPath="$PROJECT_DIR$/basicConcepts/variableClass.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Collection/MAP/HashMapDemo.java" afterPath="$PROJECT_DIR$/collection/map/HashMapDemo.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Collection/MAP/package-info.java" afterPath="$PROJECT_DIR$/collection/map/package-info.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Collection/list/ArrayListDemo.java" afterPath="$PROJECT_DIR$/collection/list/ArrayListDemo.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Collection/list/LinkedListDemo.java" afterPath="$PROJECT_DIR$/collection/list/LinkedListDemo.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Collection/list/package-info.java" afterPath="$PROJECT_DIR$/collection/list/package-info.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Collection/set/SetExample.java" afterPath="$PROJECT_DIR$/collection/set/SetExample.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Collection/set/package-info.java" afterPath="$PROJECT_DIR$/collection/set/package-info.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Collection/sorting/CompareObjectInUserDefineDT.java" afterPath="$PROJECT_DIR$/collection/sorting/CompareObjectInUserDefineDT.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Collection/sorting/NaturalOrdering.java" afterPath="$PROJECT_DIR$/collection/sorting/NaturalOrdering.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Collection/sorting/SortingUsingExistingDT.java" afterPath="$PROJECT_DIR$/collection/sorting/SortingUsingExistingDT.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Collection/sorting/Students.java" afterPath="$PROJECT_DIR$/collection/sorting/Students.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Collection/sorting/package-info.java" afterPath="$PROJECT_DIR$/collection/sorting/package-info.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Database/MySQLConnectivity/Account.java" afterPath="$PROJECT_DIR$/database/mySQLConnectivity/Account.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Database/MySQLConnectivity/MySQLDBConnector.java" afterPath="$PROJECT_DIR$/database/mySQLConnectivity/MySQLDBConnector.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Database/MySQLConnectivity/TestingConnection.java" afterPath="$PROJECT_DIR$/database/mySQLConnectivity/TestingConnection.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/DesignPattern/Builder/Student.java" afterPath="$PROJECT_DIR$/designPattern/builder/Student.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/DesignPattern/Builder/StudentBuilderDemo.java" afterPath="$PROJECT_DIR$/designPattern/builder/StudentBuilderDemo.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Examination/InternalExamination/AbstractionInterface/Abstraction/Cars.java" afterPath="$PROJECT_DIR$/examination/InternalExamination/AbstractionInterface/Abstraction/Cars.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Examination/InternalExamination/AbstractionInterface/Abstraction/Lexus.java" afterPath="$PROJECT_DIR$/examination/InternalExamination/AbstractionInterface/Abstraction/Lexus.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Examination/InternalExamination/AbstractionInterface/Transportation.java" afterPath="$PROJECT_DIR$/examination/internalExamination/abstractionInterface/Transportation.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Examination/InternalExamination/ThrowableClass/Assertions/AssertionError.java" afterPath="$PROJECT_DIR$/examination/internalExamination/ThrowableClass/Assertions/AssertionError.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Examination/InternalExamination/ThrowableClass/CompileTimeExceptionDemo/Catches.java" afterPath="$PROJECT_DIR$/examination/internalExamination/ThrowableClass/CompileTimeExceptionDemo/Catches.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Examination/InternalExamination/ThrowableClass/RuntimeExceptionDemo/ArithmeticDemo.java" afterPath="$PROJECT_DIR$/examination/internalExamination/throwableClass/runtimeExceptionDemo/ArithmeticDemo.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Examination/InternalExamination/ThrowableClass/RuntimeExceptionDemo/MultipleCatch.java" afterPath="$PROJECT_DIR$/examination/internalExamination/ThrowableClass/RuntimeExceptionDemo/MultipleCatch.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Examination/InternalExamination/ThrowableClass/ThrowingExceptions/ThrowDemo.java" afterPath="$PROJECT_DIR$/examination/InternalExamination/ThrowableClass/ThrowingExceptions/ThrowDemo.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Examination/InternalExamination/ThrowableClass/User_Defined_Exception/InvalidAgeException.java" afterPath="$PROJECT_DIR$/examination/internalExamination/throwableClass/userDefinedException/InvalidAgeException.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Examination/InternalExamination/ThrowableClass/package-info.java" afterPath="$PROJECT_DIR$/examination/internalExamination/ThrowableClass/package-info.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Examination/InternalExamination/thread/CrazyGame.java" afterPath="$PROJECT_DIR$/examination/internalExamination/thread/CrazyGame.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Examination/InternalExamination/thread/Liveness/Deadlock/BankAccount.java" afterPath="$PROJECT_DIR$/examination/InternalExamination/thread/Liveness/Deadlock/BankAccount.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Examination/InternalExamination/thread/Liveness/Deadlock/DeadlockDemo.java" afterPath="$PROJECT_DIR$/examination/InternalExamination/thread/Liveness/Deadlock/DeadlockDemo.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Examination/InternalExamination/thread/Liveness/Deadlock/Greeting.java" afterPath="$PROJECT_DIR$/examination/InternalExamination/thread/Liveness/Deadlock/Greeting.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Examination/InternalExamination/thread/Liveness/package-info.java" afterPath="$PROJECT_DIR$/examination/InternalExamination/thread/Liveness/package-info.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Examination/InternalExamination/thread/MonitorLock.java" afterPath="$PROJECT_DIR$/examination/InternalExamination/thread/MonitorLock.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Examination/InternalExamination/thread/SynchronizeMethods.java" afterPath="$PROJECT_DIR$/examination/InternalExamination/thread/SynchronizeMethods.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Examination/InternalExamination/thread/demo.java" afterPath="$PROJECT_DIR$/examination/InternalExamination/thread/demo.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Examination/ModelExamination/BasicsReview.java" afterPath="$PROJECT_DIR$/examination/ModelExamination/BasicsReview.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Examination/ModelExamination/CollectionsDemo.java" afterPath="$PROJECT_DIR$/examination/modelExamination/CollectionsDemo.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Examination/ModelExamination/Compare.java" afterPath="$PROJECT_DIR$/examination/ModelExamination/Compare.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Examination/ModelExamination/DerivedClass.java" afterPath="$PROJECT_DIR$/examination/ModelExamination/DerivedClass.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Examination/ModelExamination/FileDemo.java" afterPath="$PROJECT_DIR$/examination/ModelExamination/FileDemo.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Examination/ModelExamination/package-info.java" afterPath="$PROJECT_DIR$/examination/modelExamination/package-info.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Examination/Papers/Model/Codes/DemoB2.java" afterPath="$PROJECT_DIR$/examination/Papers/Model/codes/DemoB2.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Examination/Papers/Model/Codes/DemoB3.java" afterPath="$PROJECT_DIR$/examination/Papers/Model/codes/DemoB3.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Examination/Papers/Model/Codes/DemoB4/Boeing.java" afterPath="$PROJECT_DIR$/examination/Papers/Model/codes/DemoB4/Boeing.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Examination/Papers/Model/Codes/DemoB4/Lexus.java" afterPath="$PROJECT_DIR$/examination/Papers/Model/codes/DemoB4/Lexus.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Examination/Papers/Model/Codes/DemoB4/MyAirplanes.java" afterPath="$PROJECT_DIR$/examination/Papers/Model/codes/DemoB4/MyAirplanes.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Examination/Papers/Model/Codes/DemoB4/MyCars.java" afterPath="$PROJECT_DIR$/examination/Papers/Model/codes/demoB4/MyCars.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Examination/Papers/Model/Codes/DemoB5.java" afterPath="$PROJECT_DIR$/examination/Papers/Model/codes/DemoB5.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Examination/Papers/Model/Codes/DemoC1A.java" afterPath="$PROJECT_DIR$/examination/Papers/Model/codes/DemoC1A.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Examination/Papers/Model/Codes/DemoC1B.java" afterPath="$PROJECT_DIR$/examination/Papers/Model/codes/DemoC1B.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Examination/Papers/Model/Codes/DemoC2A/KITStudentDeSerialize.java" afterPath="$PROJECT_DIR$/examination/Papers/Model/codes/demoC2A/KITStudentDeSerialize.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Examination/Papers/Model/Codes/DemoC2A/KITStudents.java" afterPath="$PROJECT_DIR$/examination/Papers/Model/codes/DemoC2A/KITStudents.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Examination/Papers/Model/Codes/DemoC2A/Student.java" afterPath="$PROJECT_DIR$/examination/Papers/Model/codes/DemoC2A/Student.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Examination/Papers/Model/Codes/DemoC2B.java" afterPath="$PROJECT_DIR$/examination/Papers/Model/codes/DemoC2B.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Examination/Papers/Model/Codes/DemoC3A.java" afterPath="$PROJECT_DIR$/examination/Papers/Model/codes/DemoC3A.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Examination/Papers/Model/Codes/DemoC4A1.java" afterPath="$PROJECT_DIR$/examination/Papers/Model/codes/DemoC4A1.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Examination/Papers/Model/Codes/DemoC4B1.java" afterPath="$PROJECT_DIR$/examination/Papers/Model/codes/DemoC4B1.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Examination/Papers/Model/Codes/DemoC4B2.java" afterPath="$PROJECT_DIR$/examination/Papers/Model/codes/DemoC4B2.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Examination/Papers/Model/Codes/StudentObj.bin" afterPath="$PROJECT_DIR$/examination/Papers/Model/codes/StudentObj.bin" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Examination/Papers/Model/Codes/fileOperationDemo.html" afterPath="$PROJECT_DIR$/examination/Papers/Model/codes/fileOperationDemo.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Examination/Papers/Model/Codes/mytitle.txt" afterPath="$PROJECT_DIR$/examination/Papers/Model/codes/mytitle.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Examination/Papers/Model/Examination.md" afterPath="$PROJECT_DIR$/examination/Papers/Model/Examination.md" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -191,102 +27,41 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="FIleOutputStreamDemo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/basicConcepts/fileOperation/output/FIleOutputStreamDemo.java">
+      <file leaf-file-name="Account.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/database/model/Account.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="24" lean-forward="false" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
-              <folding />
+            <state relative-caret-position="-1314">
+              <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+              <folding>
+                <marker date="1519703168714" expanded="true" signature="962:983" ph="SELECT * FRO... account" />
+                <marker date="1519703168714" expanded="true" signature="2262:2388" ph="INSERT INTO account... " />
+                <marker date="1519703168714" expanded="true" signature="2668:2733" ph="UPDATE accou... " />
+                <marker date="1519703168714" expanded="true" signature="2773:2838" ph="UPDATE accou... " />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BufferFileWriter.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/basicConcepts/fileOperation/readerWriterClassDemo/BufferFileWriter.java">
+      <file leaf-file-name="MySQLDBConnector.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/database/mySQLConnectivity/MySQLDBConnector.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="11" column="37" lean-forward="false" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
-              <folding />
+            <state relative-caret-position="34">
+              <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BufferReaderDemo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/basicConcepts/fileOperation/readerWriterClassDemo/BufferReaderDemo.java">
+      <file leaf-file-name="TestingConnection.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/database/worker/TestingConnection.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="12" column="37" lean-forward="false" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FileReaderDemo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/basicConcepts/fileOperation/readerWriterClassDemo/FileReaderDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="11" column="31" lean-forward="false" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="WriterDemo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/basicConcepts/fileOperation/readerWriterClassDemo/WriterDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="9" column="45" lean-forward="false" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ReadAndWrite.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/basicConcepts/fileOperation/ReadAndWrite.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="84" lean-forward="false" selection-start-line="8" selection-start-column="84" selection-end-line="8" selection-end-column="84" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Fruit.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/basicConcepts/serialization/Fruit.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PreserveWriteObj.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/basicConcepts/serialization/PreserveWriteObj.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ReadPreserveObj.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/basicConcepts/serialization/ReadPreserveObj.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="constantExample.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/basicConcepts/constantExample.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="13" lean-forward="false" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
-              <folding />
+            <state relative-caret-position="221">
+              <caret line="13" column="10" lean-forward="true" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -317,9 +92,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/BasicConcepts/presentation/UsingAnonymousObject.java" />
-        <option value="$PROJECT_DIR$/bin/array/BinarySearch.class" />
-        <option value="$PROJECT_DIR$/Examination/InternalExamination/AbstractionInterface/Interface/Boeing.java" />
         <option value="$PROJECT_DIR$/Examination/InternalExamination/thread/MonitorLock.java" />
         <option value="$PROJECT_DIR$/Examination/InternalExamination/ThrowableClass/CompileTimeExceptionDemo/Catches.java" />
         <option value="$PROJECT_DIR$/Examination/InternalExamination/ThrowableClass/User_Defined_Exception/Election.java" />
@@ -368,6 +140,9 @@
         <option value="$PROJECT_DIR$/basicConcepts/fileOperation/readerWriterClassDemo/FileReaderDemo.java" />
         <option value="$PROJECT_DIR$/basicConcepts/fileOperation/readerWriterClassDemo/WriterDemo.java" />
         <option value="$PROJECT_DIR$/basicConcepts/fileOperation/ReadAndWrite.java" />
+        <option value="$PROJECT_DIR$/database/model/Account.java" />
+        <option value="$PROJECT_DIR$/database/Worker/TestingConnection.java" />
+        <option value="$PROJECT_DIR$/database/worker/TestingConnection.java" />
       </list>
     </option>
   </component>
@@ -426,58 +201,25 @@
             <path>
               <item name="JavaIntroduction" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaIntroduction" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaIntroduction" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaIntroduction" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="analysis" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaIntroduction" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaIntroduction" type="462c0819:PsiDirectoryNode" />
-              <item name="basicConcepts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaIntroduction" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaIntroduction" type="462c0819:PsiDirectoryNode" />
-              <item name="basicConcepts" type="462c0819:PsiDirectoryNode" />
-              <item name="serialization" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaIntroduction" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaIntroduction" type="462c0819:PsiDirectoryNode" />
-              <item name="collection" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaIntroduction" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaIntroduction" type="462c0819:PsiDirectoryNode" />
-              <item name="collection" type="462c0819:PsiDirectoryNode" />
-              <item name="map" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaIntroduction" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaIntroduction" type="462c0819:PsiDirectoryNode" />
-              <item name="collection" type="462c0819:PsiDirectoryNode" />
-              <item name="set" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaIntroduction" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaIntroduction" type="462c0819:PsiDirectoryNode" />
-              <item name="collection" type="462c0819:PsiDirectoryNode" />
-              <item name="sorting" type="462c0819:PsiDirectoryNode" />
+              <item name="database" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaIntroduction" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaIntroduction" type="462c0819:PsiDirectoryNode" />
               <item name="database" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaIntroduction" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaIntroduction" type="462c0819:PsiDirectoryNode" />
               <item name="database" type="462c0819:PsiDirectoryNode" />
               <item name="mySQLConnectivity" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaIntroduction" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaIntroduction" type="462c0819:PsiDirectoryNode" />
+              <item name="database" type="462c0819:PsiDirectoryNode" />
+              <item name="worker" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaIntroduction" type="b2602c69:ProjectViewProjectNode" />
@@ -499,18 +241,18 @@
             <path>
               <item name="JavaIntroduction" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaIntroduction" type="462c0819:PsiDirectoryNode" />
-              <item name="examination" type="462c0819:PsiDirectoryNode" />
+              <item name="exceptionAndError" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaIntroduction" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaIntroduction" type="462c0819:PsiDirectoryNode" />
-              <item name="examination" type="462c0819:PsiDirectoryNode" />
-              <item name="Model" type="462c0819:PsiDirectoryNode" />
+              <item name="exceptionAndError" type="462c0819:PsiDirectoryNode" />
+              <item name="exception" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaIntroduction" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaIntroduction" type="462c0819:PsiDirectoryNode" />
-              <item name="Threads" type="462c0819:PsiDirectoryNode" />
+              <item name="inheritanceConcept" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -540,15 +282,135 @@
     <key name="CreateTestDialog.RecentsKey">
       <recent name="Analysis" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Shared\JAVAPROJECT\JavaIntroduction\Database" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="org.jboss.arquillian.testng.Arquillian" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Shared\JAVAPROJECT\JavaIntroduction\Database" />
     </key>
+  </component>
+  <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
+    <UpdatedFiles>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Updated from server" />
+        <option name="myStatusName" value="Changed on server" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="CHANGED_ON_SERVER" />
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Updated" />
+          <option name="myStatusName" value="Changed" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="UPDATED" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/.idea/dataSources.local.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/.idea/dataSources.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/.idea/dataSources/0c4f8302-4855-4add-9c7a-80ad1bc9b7c1.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/.idea/workspace.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Examination/Papers/Model/Examination.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/target/classes/MySQLConnectivity/Account.class</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/target/classes/MySQLConnectivity/TestingConnection.class</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Created" />
+          <option name="myStatusName" value="Created" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="CREATED" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Deleted" />
+          <option name="myStatusName" value="Deleted" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="true" />
+          <option name="myId" value="REMOVED_FROM_REPOSITORY" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Restored" />
+          <option name="myStatusName" value="Will be restored" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="RESTORED" />
+        </FILE-GROUP>
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Modified" />
+        <option name="myStatusName" value="Modified" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MODIFIED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Skipped" />
+        <option name="myStatusName" value="Skipped" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SKIPPED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with conflicts" />
+        <option name="myStatusName" value="Will be merged with conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_CONFLICTS" />
+        <PATH vcs="Git" revision="">$PROJECT_DIR$/Database/MySQLConnectivity/Account.java</PATH>
+        <PATH vcs="Git" revision="">$PROJECT_DIR$/Database/Model/Account.java</PATH>
+        <PATH vcs="Git" revision="">$PROJECT_DIR$/Database/MySQLConnectivity/TestingConnection.java</PATH>
+        <PATH vcs="Git" revision="">$PROJECT_DIR$/Database/Worker/TestingConnection.java</PATH>
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with tree conflicts" />
+        <option name="myStatusName" value="Merged with tree conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with property conflicts" />
+        <option name="myStatusName" value="Will be merged with property conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_PROPERTY_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged" />
+        <option name="myStatusName" value="Will be merged" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Not in repository" />
+        <option name="myStatusName" value="Not in repository" />
+        <option name="mySupportsDeletion" value="true" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="UNKNOWN" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally added" />
+        <option name="myStatusName" value="Locally added" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_ADDED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally removed" />
+        <option name="myStatusName" value="Locally removed" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_REMOVED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Switched" />
+        <option name="myStatusName" value="Switched" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SWITCHED" />
+      </FILE-GROUP>
+    </UpdatedFiles>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -965,7 +827,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="168784000" />
+    <option name="totallyTimeSpent" value="169039000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
@@ -979,11 +841,11 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32917318" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32847896" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32917318" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32847896" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32847896" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32847896" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28668684" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28668684" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6569579" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -993,11 +855,33 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40405616" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32917318" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40405616" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37055016" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32847896" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32917318" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32847896" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32847896" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28668684" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6569579" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1050,21 +934,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/examination/Papers/Model/codes/DemoC3A.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="12" lean-forward="false" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/examination/Papers/Model/codes/DemoB2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/examination/Papers/Model/codes/DemoB3.java">
+    <entry file="file://$PROJECT_DIR$/examination/papers/model/codes/DemoB3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="23" column="17" lean-forward="false" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
@@ -1146,34 +1016,8 @@
     <entry file="file://$PROJECT_DIR$/Database/JDBCTutorial/src/com/oracle/tutorial/jdbc/CachedRowSetSample.java" />
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/0c4f8302-4855-4add-9c7a-80ad1bc9b7c1/console_1.sql" />
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/0c4f8302-4855-4add-9c7a-80ad1bc9b7c1/console.sql" />
-    <entry file="file://$PROJECT_DIR$/database/mySQLConnectivity/TestingConnection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="26" lean-forward="false" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/database/mySQLConnectivity/MySQLDBConnector.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="15" column="35" lean-forward="true" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/database/mySQLConnectivity/Account.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1156">
-          <caret line="85" column="41" lean-forward="false" selection-start-line="85" selection-start-column="41" selection-end-line="85" selection-end-column="41" />
-          <folding>
-            <element signature="method#Account#0;class#Account#0" expanded="false" />
-            <marker date="1519702789292" expanded="true" signature="944:965" ph="SELECT * FRO... account" />
-            <marker date="1519702789292" expanded="true" signature="2237:2363" ph="INSERT INTO account... " />
-            <marker date="1519702789292" expanded="true" signature="2636:2701" ph="UPDATE accou... " />
-            <marker date="1519702789292" expanded="true" signature="2741:2806" ph="UPDATE accou... " />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/database/mySQLConnectivity/TestingConnection.java" />
+    <entry file="file://$PROJECT_DIR$/database/mySQLConnectivity/Account.java" />
     <entry file="file://$PROJECT_DIR$/algorithms/analysis/BubleSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -1228,7 +1072,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="5" lean-forward="false" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1236,12 +1079,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" column="5" lean-forward="false" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-          <folding>
-            <element signature="e#238#239#0" expanded="true" />
-            <element signature="e#290#291#0" expanded="true" />
-            <element signature="e#332#333#0" expanded="true" />
-            <element signature="e#419#420#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1418,6 +1255,39 @@
         <state relative-caret-position="17">
           <caret line="1" column="13" lean-forward="false" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/model/Account.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1314">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <marker date="1519703168714" expanded="true" signature="962:983" ph="SELECT * FRO... account" />
+            <marker date="1519703168714" expanded="true" signature="2262:2388" ph="INSERT INTO account... " />
+            <marker date="1519703168714" expanded="true" signature="2668:2733" ph="UPDATE accou... " />
+            <marker date="1519703168714" expanded="true" signature="2773:2838" ph="UPDATE accou... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/mySQLConnectivity/MySQLDBConnector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/worker/TestingConnection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="10" lean-forward="true" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
