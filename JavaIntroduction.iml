@@ -4,15 +4,15 @@
     <output url="file://$MODULE_DIR$/target/classes" />
     <output-test url="file://$MODULE_DIR$/target/test-classes" />
     <content url="file://$MODULE_DIR$">
-      <sourceFolder url="file://$MODULE_DIR$/BasicConcepts" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/basicConcepts" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/InheritanceConcept" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/ExceptionAndError" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Threads" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Collection" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/DesignPattern" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Examination" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Algorithms" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Database" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/collection" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/designPattern" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/examination" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/algorithms" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/database" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/main/java" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/main/resources" type="java-resource" />
       <sourceFolder url="file://$MODULE_DIR$/src/test/java" isTestSource="true" />
