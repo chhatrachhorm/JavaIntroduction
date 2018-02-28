@@ -8,7 +8,7 @@ public class variableClass {
 		s1.name="Chhatra";
 		s2.name="Derek";
 		s1.school="Kirirom Institute of Technology";
-		s2.school="KIT";
+		s2.school="EarlyTree";
 		System.out.println(s1.name);
 		System.out.println(s2.name);
 		System.out.println(s1.school);

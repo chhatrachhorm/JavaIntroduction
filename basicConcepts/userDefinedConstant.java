@@ -7,7 +7,7 @@ public class userDefinedConstant {
 	public static final String SCHOOL;
 	static{
 		X = 1;
-		SCHOOL = "KIT";
+		SCHOOL = "EarlyTree";
 	}
 	public static void main(String[] args) {
 		int[][] myArr = {{1, 2, 3},{4},{5, 6, 7, 10}, {8, 6, 7}};

@@ -1,5 +1,7 @@
 package builder;
 
+import builder.model.Student;
+
 public class StudentBuilderDemo {
     public static void main(String[] args) {
         Student stu = new Student.StudentBuilder()

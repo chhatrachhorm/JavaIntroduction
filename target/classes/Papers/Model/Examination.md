@@ -1,4 +1,4 @@
-# KIT Core Java Model Examination
+# Core Java model Examination
 #### Part A
 1. Responsibilities of JVM are to load the bytecode file, verify that file and to execute it.
 2. Difference between String and StringBuffer
@@ -86,7 +86,7 @@
     public class FileReadDemo{
             public static void main(String args[]){
                 try{
-                    FileInputStream fis = new FileInputStream("Examination/Papers/Model/Codes/mytitle.txt");
+                    FileInputStream fis = new FileInputStream(codes);
                     byte b[] = new byte[1024];
                     int total = 0;
                     fis.read(b);
@@ -277,9 +277,9 @@
             }
         }
         ```
-2. FileOperation and Serialization
-    * Serialization and Deserialization
-        * Serialization is a process of converting an object into a sequence of bytes which can be persisted to a storage or can be sent through streams.
+2. FileOperation and serialization
+    * serialization and Deserialization
+        * serialization is a process of converting an object into a sequence of bytes which can be persisted to a storage or can be sent through streams.
         * The reverse process of creating an object from sequence of bytes is called deserialization.
         ```java
         /*Serializable Obj*/
@@ -295,13 +295,13 @@
         }
         ```
         ```java
-        /*Serialization*/
+        serialization
         public class KITStudents{
             public static void main(String args[]){
                 Student s = new Student(1, "Chhatra Chhorm");
                 try{
-                    BufferedOutputStream bos = new BufferedOutputStream(new FileOutputStream("Examination/Papers/Model/Codes/StudentObj.bin"));
-                    ObjectOutputStream oos = new ObjectOutputStream(bos);
+                    BufferedOutputStream bos = new BufferedOutputStream(new FileOutputStream(model));
+           model    ObjectOutputStream oos = new ObjectOutputStream(bos);
                     oos.writeObject(s);
                     oos.close();
                     bos.close();
@@ -316,7 +316,7 @@
         public class KITStudentDeSerialize{
             public static void main(String args[]){
                 try{
-                    BufferedInputStream bis = new BufferedInputStream(new FileInputStream("Examination/Papers/Model/Codes/StudentObj.bin"));
+                    BufferedInputStream bis = new BufferedInputStream(new FileInputStream(codes));
                     ObjectInputStream ois = new ObjectInputStream(bis);
                     Student s = (Student)ois.readObject();
                     System.out.println(s.toString());
@@ -329,9 +329,9 @@
     * FileOperation : A project to perform FileInputStream, BufferedInputStream, FileOutputStream, BufferedOutputStream
         ```java
         public class FileOperationDemo{
-            private File f = new File("Examination/Papers/Model/Codes/fileOperationDemo.html");
+            private File f = new File(model);
             public void iFIS() throws IOException{
-                    FileInputStream fis = new FileInputStream(f);
+   model            FileInputStream fis = new FileInputStream(f);
                     byte b[] = new byte[1024];
                     fis.read(b);
                     System.out.println("FIS: " + new String(b).trim());

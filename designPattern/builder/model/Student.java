@@ -1,4 +1,4 @@
-package builder;
+package builder.model;
 
 public class Student {
     private int id;
@@ -22,11 +22,11 @@ public class Student {
     /**
      * Student builder Demo Class
      * */
-    static class StudentBuilder{
+    public static class StudentBuilder{
         private int id;
         private String name, email;
 
-        StudentBuilder setId(int id) {
+        public StudentBuilder setId(int id) {
             this.id = id;
             return this;
         }
@@ -36,11 +36,11 @@ public class Student {
             return this;
         }
 
-        StudentBuilder setEmail(String email) {
+        public StudentBuilder setEmail(String email) {
             this.email = email;
             return this;
         }
-        Student getInstance(){
+        public Student getInstance(){
             return new Student(id, name, email);
         }
     }

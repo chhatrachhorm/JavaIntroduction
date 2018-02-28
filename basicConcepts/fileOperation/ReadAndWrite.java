@@ -12,8 +12,6 @@ public class ReadAndWrite {
             bos.write(b);
             bis.close();
             bos.close();
-        } catch (FileNotFoundException e) {
-            e.printStackTrace();
         } catch (IOException e) {
             e.printStackTrace();
         }

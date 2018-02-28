@@ -6,7 +6,7 @@ public class BasicsReview {
     protected static final String SCHOOL_NAME;
     protected static final String SCHOOL_ID;
     static{
-        SCHOOL_NAME = "KIT";
+        SCHOOL_NAME = "EarlyTree";
         SCHOOL_ID = "KIT1001";
     }
     // instance fields
