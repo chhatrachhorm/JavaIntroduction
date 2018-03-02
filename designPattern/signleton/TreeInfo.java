@@ -1,5 +1,6 @@
 package signleton;
 
+import signleton.enumurator.EnumTree;
 import signleton.model.EarlyTree;
 import signleton.model.LateTree;
 
@@ -15,7 +16,7 @@ public class TreeInfo {
 
 
         /*
-        * Late Instantiation
+        * Late Instantiation with Synchronized Function
         * Create multiple threads
         * */
         Thread k1 = new Thread(() -> {
@@ -28,5 +29,22 @@ public class TreeInfo {
         });
         k1.start();
         k2.start();
+
+        /*
+        * Late Instantiation with Synchronized Code Block
+        * */
+        Thread k3 = new Thread(()->{
+            LateTree lateTree = LateTree.getLateTreeInstance();
+            lateTree.printLateTreeID();
+        });
+        Thread k4 = new Thread(()->{
+            LateTree lateTree = LateTree.getLateTreeInstance();
+            lateTree.printLateTreeID();
+        });
+        k3.start();
+        k4.start();
+        EnumTree enumTree = EnumTree.INSTANCE;
+        enumTree.setTreeName("Pine Tree");
+        enumTree.printEnumTree();
     }
 }

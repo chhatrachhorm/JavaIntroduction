@@ -21,6 +21,7 @@ public class LateTree {
 
     /*
     * Go along with late instantiation
+    * Lock with Synchronized Function
     * */
     public static synchronized LateTree getLateTree(){
         if(lateTree == null){
@@ -29,4 +30,15 @@ public class LateTree {
         return lateTree;
     }
 
+    /*
+    * Go along with late instantiation
+    * Lock with Synchronized block
+    * */
+    public static LateTree getLateTreeInstance(){
+        synchronized (LateTree.class){
+            if(lateTree == null)
+                lateTree = new LateTree(4550);
+            return lateTree;
+        }
+    }
 }
