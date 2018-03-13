@@ -1,6 +1,6 @@
 package signleton;
 
-import signleton.enumurator.EnumTree;
+import signleton.enumerator.EnumTree;
 import signleton.model.EarlyTree;
 import signleton.model.LateTree;
 
@@ -43,6 +43,10 @@ public class TreeInfo {
         });
         k3.start();
         k4.start();
+        /*
+        * Singleton with Enumerator
+        *
+        * */
         EnumTree enumTree = EnumTree.INSTANCE;
         enumTree.setTreeName("Pine Tree");
         enumTree.printEnumTree();

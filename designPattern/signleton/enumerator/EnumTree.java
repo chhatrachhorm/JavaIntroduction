@@ -1,4 +1,4 @@
-package signleton.enumurator;
+package signleton.enumerator;
 
 public enum EnumTree {
     INSTANCE;
