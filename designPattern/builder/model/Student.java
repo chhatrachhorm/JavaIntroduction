@@ -31,7 +31,7 @@ public class Student {
             return this;
         }
 
-        StudentBuilder setName(String name) {
+        public StudentBuilder setName(String name) {
             this.name = name;
             return this;
         }
@@ -40,6 +40,7 @@ public class Student {
             this.email = email;
             return this;
         }
+
         public Student getInstance(){
             return new Student(id, name, email);
         }
