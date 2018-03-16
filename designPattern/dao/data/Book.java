@@ -7,6 +7,7 @@ public class Book {
     private String author;
     private Integer year;
 
+    public Book(){}
     public Book(Integer id, String ssn, String title, String author, Integer year) {
         this.id = id;
         this.ssn = ssn;

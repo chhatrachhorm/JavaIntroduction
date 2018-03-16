@@ -39,17 +39,59 @@ public class BookDaoImpl implements BookDAO{
     }
 
     @Override
-    public Integer delete() {
+    public Integer delete(String ssn) {
+        PreparedStatement deleteBook;
+        String sql = "DELETE FROM books where ssn LIKE ?;";
+        try {
+            connection.setAutoCommit(false);
+            deleteBook = connection.prepareStatement(sql);
+            deleteBook.setString(1, ssn);
+            Integer result = deleteBook.executeUpdate();
+            connection.commit();
+            return result;
+        } catch (SQLException e) {
+            e.printStackTrace();
+        }
+        return -1;
+    }
+
+
+    @Override
+    public Integer updateTitle(String ssn, String title) {
+        String sql = "UPDATE books set title = ? where ssn = ?";
+        PreparedStatement update;
+        try {
+            connection.setAutoCommit(false);
+            update = connection.prepareStatement(sql);
+            update.setString(1, title);
+            update.setString(2, ssn);
+            Integer result = update.executeUpdate();
+            connection.commit();
+            return result;
+        } catch (SQLException e) {
+            e.printStackTrace();
+        }
         return null;
     }
 
     @Override
-    public Integer update() {
+    public Book search(String ssn) {
+        String sql = "SELECT * FROM books where ssn ='" + ssn +"';";
+        try {
+            ResultSet resultSet = connection.prepareStatement(sql).executeQuery();
+            Book b = new Book();
+            while (resultSet.next()){
+                b.setSsn(resultSet.getString("ssn"));
+                b.setAuthor(resultSet.getString("author"));
+                b.setId(resultSet.getInt("id"));
+                b.setTitle(resultSet.getString("title"));
+                b.setYear(resultSet.getInt("year"));
+            }
+            return b;
+        } catch (SQLException e) {
+            e.printStackTrace();
+        }
         return null;
     }
 
-    @Override
-    public Book search() {
-        return null;
-    }
 }
