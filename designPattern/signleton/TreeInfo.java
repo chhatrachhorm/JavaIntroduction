@@ -15,9 +15,10 @@ public class TreeInfo {
         earlyTree.printEarlyTreeID();
 
 
+        //===========================================================//
+
         /*
-        * Late Instantiation with Synchronized Function
-        * Create multiple threads
+        * Late Instantiation with Synchronized Keyword Function
         * */
         Thread k1 = new Thread(() -> {
             LateTree lateTree = LateTree.getLateTree();
@@ -43,9 +44,9 @@ public class TreeInfo {
         });
         k3.start();
         k4.start();
+
         /*
         * Singleton with Enumerator
-        *
         * */
         EnumTree enumTree = EnumTree.INSTANCE;
         enumTree.setTreeName("Pine Tree");

@@ -5,18 +5,22 @@ import dao.impl.BookDaoImpl;
 
 public class BookInfo {
     public static void main(String[] args) {
-        Book b = new Book(null, "152-2566-122", "A word from a poor child", "Chhatra", 2019);
+
+        /*Get DB Connection via BookDaoImpl*/
         BookDaoImpl bookDaoImpl = new BookDaoImpl();
         bookDaoImpl.getConnection();
+
+        /*Insert A BOOK*/
+        Book b = new Book(null, "152-2566-122", "A word from a poor child", "Chhatra", 2019);
         bookDaoImpl.insert(b);
 
+        /*Insert Another BOOK*/
         Book c = new Book(null, "152-2566-125", "The opposite Me", "Chhatra Chhorm", 2019);
         bookDaoImpl.insert(c);
+        /*SEARCH For A Book via SSN*/
         Book result = bookDaoImpl.search(c.getSsn());
         System.out.println("Result From Search" + result);
-        Integer value = bookDaoImpl.delete(c.getSsn());
-        System.out.println(value);
-
-
+        /*DELETE a BOOK*/
+        bookDaoImpl.delete(c.getSsn());
     }
 }

@@ -21,7 +21,7 @@ public class LateTree {
 
     /*
     * Go along with late instantiation
-    * Lock with Synchronized Function
+    * Lock with Synchronized Keyword Function
     * */
     public static synchronized LateTree getLateTree(){
         if(lateTree == null){
@@ -32,7 +32,7 @@ public class LateTree {
 
     /*
     * Go along with late instantiation
-    * Lock with Synchronized block
+    * Lock with Synchronized code block
     * */
     public static LateTree getLateTreeInstance(){
         synchronized (LateTree.class){

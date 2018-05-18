@@ -6,7 +6,7 @@ public enum EnumTree {
     public void setTreeName(String name){
         this.name = name;
     }
-    public void printEnumTree(){
+    public void printEnumTree() {
         System.out.println("Enum Tree's Name is " + name);
     }
 }
